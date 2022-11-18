@@ -1,0 +1,3940 @@
+# KOBOTOOLBOX KPI FORMBUILDER STRINGS
+# source language: EN. Compiled: Feb 13, 2017
+msgid ""
+msgstr ""
+"Project-Id-Version: koboform\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-07-12 11:37-0400\n"
+"PO-Revision-Date: 2021-01-12 13:55+0600\n"
+"Last-Translator: Olivier Leger\n"
+"Language-Team: English (http://www.transifex.com/kobotoolbox/koboform/"
+"language/en/)\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-KeywordsList: t;_t\n"
+"X-Poedit-Basepath: ../../../jsapp\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: js\n"
+"X-Poedit-SearchPath-1: xlform\n"
+"X-Poedit-SearchPathExcluded-0: js/libs\n"
+
+#: xlform/src/mv.skipLogicHelpers.coffee:418 js/i18nMissingStrings.es6:127
+msgid "Add a condition"
+msgstr "Добавить условие"
+
+#: xlform/src/mv.skipLogicHelpers.coffee:419 js/i18nMissingStrings.es6:128
+msgid "Manually enter your skip logic in XLSForm code"
+msgstr "Вручную введите логику пропуска в коде XLSForm"
+
+#: xlform/src/mv.validationLogicHelpers.coffee:75 js/i18nMissingStrings.es6:79
+msgid "Manually enter your validation logic in XLSForm code"
+msgstr "Вручную введите логику проверки в коде XLSForm"
+
+#: xlform/src/mv.validationLogicHelpers.coffee:93
+msgid "Validation Code:"
+msgstr "Код проверки:"
+
+#: xlform/src/view.choices.templates.coffee:8 js/i18nMissingStrings.es6:43
+msgid "Click to add another response..."
+msgstr "Нажмите, чтобы добавить еще один ответ ..."
+
+#: xlform/src/view.choices.templates.coffee:8 js/i18nMissingStrings.es6:77
+msgid "Value:"
+msgstr "Значение:"
+
+#: xlform/src/view.choices.templates.coffee:8 js/i18nMissingStrings.es6:44
+msgid "AUTOMATIC"
+msgstr "АВТОМАТИЧЕСКИ"
+
+#: xlform/src/view.icons.coffee:9 js/formbuild/containers/KoboMatrix.es6:42
+#: js/i18nMissingStrings.es6:131
+msgid "Select One"
+msgstr "Выберите один"
+
+#: xlform/src/view.icons.coffee:14 js/formbuild/containers/KoboMatrix.es6:46
+#: js/i18nMissingStrings.es6:132
+msgid "Select Many"
+msgstr "Выберите несколько"
+
+#: xlform/src/view.icons.coffee:19 js/formbuild/containers/KoboMatrix.es6:50
+#: js/i18nMissingStrings.es6:84
+msgid "Text"
+msgstr "Текст"
+
+#: xlform/src/view.icons.coffee:24 js/formbuild/containers/KoboMatrix.es6:54
+#: js/i18nMissingStrings.es6:85
+msgid "Number"
+msgstr "Номер"
+
+#: xlform/src/view.icons.coffee:31 js/i18nMissingStrings.es6:86
+msgid "Decimal"
+msgstr "Десятичный"
+
+#: xlform/src/view.icons.coffee:36
+#: js/components/RESTServices/RESTServiceLogs.es6:274
+#: js/i18nMissingStrings.es6:87
+msgid "Date"
+msgstr "Дата"
+
+#: xlform/src/view.icons.coffee:41 js/i18nMissingStrings.es6:88
+msgid "Time"
+msgstr "Время"
+
+#: xlform/src/view.icons.coffee:46 js/i18nMissingStrings.es6:89
+msgid "Date & time"
+msgstr "Дата и время"
+
+#: xlform/src/view.icons.coffee:53
+msgid "Point"
+msgstr "ГеоТочка"
+
+#: xlform/src/view.icons.coffee:58 js/i18nMissingStrings.es6:91
+msgid "Photo"
+msgstr "Фото"
+
+#: xlform/src/view.icons.coffee:63 js/i18nMissingStrings.es6:92
+msgid "Audio"
+msgstr "Аудио"
+
+#: xlform/src/view.icons.coffee:68 js/i18nMissingStrings.es6:93
+msgid "Video"
+msgstr "Видео"
+
+#: xlform/src/view.icons.coffee:75 js/i18nMissingStrings.es6:75
+msgid "Line"
+msgstr "Линия"
+
+#: xlform/src/view.icons.coffee:80 js/i18nMissingStrings.es6:94
+msgid "Note"
+msgstr "Заметка"
+
+#: xlform/src/view.icons.coffee:85
+msgid "Barcode / QR Code"
+msgstr "Штрих-код / QR-код"
+
+#: xlform/src/view.icons.coffee:90 js/i18nMissingStrings.es6:96
+msgid "Acknowledge"
+msgstr "Подтверждение"
+
+#: xlform/src/view.icons.coffee:97 js/i18nMissingStrings.es6:72
+msgid "Area"
+msgstr "Область"
+
+#: xlform/src/view.icons.coffee:102
+msgid "Rating"
+msgstr "Рейтинг"
+
+#: xlform/src/view.icons.coffee:107
+msgid "Question Matrix"
+msgstr "Матрица вопросов"
+
+#: xlform/src/view.icons.coffee:112 js/i18nMissingStrings.es6:99
+msgid "Ranking"
+msgstr "Ранжирование"
+
+#: xlform/src/view.icons.coffee:119 js/i18nMissingStrings.es6:97
+msgid "Calculate"
+msgstr "Рассчет"
+
+#: xlform/src/view.icons.coffee:124
+msgid "File"
+msgstr "Файл"
+
+#: xlform/src/view.icons.coffee:129
+msgid "Range"
+msgstr "Диапазон"
+
+#: xlform/src/view.row.coffee:199 js/i18nMissingStrings.es6:101
+msgid ""
+"You can't display nested groups on the same screen - the setting has been "
+"removed from the parent group"
+msgstr ""
+"Вы не можете отображать вложенные группы на одном экране - настройка была "
+"удалена из родительской группы"
+
+#: xlform/src/view.row.templates.coffee:18
+#: xlform/src/view.row.templates.coffee:34 js/i18nMissingStrings.es6:151
+msgid "Settings"
+msgstr "Параметры"
+
+#: xlform/src/view.row.templates.coffee:19
+msgid "All group settings"
+msgstr "Все настройки группы"
+
+#: xlform/src/view.row.templates.coffee:20
+#: xlform/src/view.row.templates.coffee:36 js/i18nMissingStrings.es6:45
+msgid "Skip Logic"
+msgstr "Логика"
+
+#: xlform/src/view.row.templates.coffee:35 js/i18nMissingStrings.es6:46
+msgid "Question Options"
+msgstr "Настройки вопроса:"
+
+#: xlform/src/view.row.templates.coffee:37 js/i18nMissingStrings.es6:47
+msgid "Validation Criteria"
+msgstr "Критерии проверки"
+
+#: xlform/src/view.row.templates.coffee:38
+#: js/formbuild/containers/KoboMatrix.es6:414 js/i18nMissingStrings.es6:48
+msgid "Response Type"
+msgstr "Тип ответа"
+
+#: xlform/src/view.row.templates.coffee:116
+msgid ""
+"Note: The Matrix question type only works in Enketo web forms using the "
+"'grid' style."
+msgstr ""
+"Примечание: Тип вопросов Матрицы работает только в веб-формах ukzisp.kz, "
+"используя стиль «сетки»."
+
+#: xlform/src/view.row.templates.coffee:281 js/i18nMissingStrings.es6:51
+msgid ""
+"This question could not be imported. Please re-create it manually. Please "
+"contact us at help@kobotoolbox.org so we can fix this bug!"
+msgstr ""
+"Этот вопрос не может быть импортирован. Пожалуйста, создайте его вручную. "
+
+#: xlform/src/view.rowDetail.SkipLogic.coffee:262 js/i18nMissingStrings.es6:129
+msgid "response value"
+msgstr "значение ответа"
+
+#: xlform/src/view.rowDetail.coffee:192
+msgid "Guidance hint"
+msgstr "Подсказка руководства"
+
+#: xlform/src/view.rowDetail.coffee:199 js/i18nMissingStrings.es6:105
+msgid "Error Message"
+msgstr "Сообщение об ошибке"
+
+#: xlform/src/view.rowDetail.coffee:262 js/i18nMissingStrings.es6:106
+msgid "Data column name"
+msgstr "Имя столбца данных"
+
+#: xlform/src/view.rowDetail.coffee:284
+msgid "HXL"
+msgstr "HXL"
+
+#: xlform/src/view.rowDetail.coffee:380 js/i18nMissingStrings.es6:107
+msgid "Default response"
+msgstr "Ответ по умолчанию"
+
+#: xlform/src/view.rowDetail.coffee:393 js/i18nMissingStrings.es6:108
+msgid "Repeat"
+msgstr "Повтор"
+
+#: xlform/src/view.rowDetail.coffee:393 js/i18nMissingStrings.es6:109
+msgid "Repeat this group if necessary"
+msgstr "Повтор варинатов ответов группы, если это необходимо"
+
+#: xlform/src/view.rowDetail.coffee:400 js/i18nMissingStrings.es6:110
+msgid "Mandatory response"
+msgstr "Обязательный ответ"
+
+#: xlform/src/view.rowDetail.coffee:419 xlform/src/view.rowDetail.coffee:425
+#: xlform/src/view.rowDetail.coffee:427 js/i18nMissingStrings.es6:111
+msgid "Appearance (advanced)"
+msgstr "Внешний вид (продвинутый)"
+
+#: xlform/src/view.rowDetail.coffee:419 js/i18nMissingStrings.es6:112
+msgid "Show all questions in this group on the same screen"
+msgstr "Показать все вопросы в этой группе на одном экране"
+
+#: xlform/src/view.rowSelector.templates.coffee:33 js/i18nMissingStrings.es6:52
+msgid "Add Question"
+msgstr "Добавить вопрос"
+
+#: xlform/src/view.surveyApp.coffee:588 js/i18nMissingStrings.es6:130
+msgid "Are you sure you want to delete this question?"
+msgstr "Вы уверены, что хотите удалить этот вопрос?"
+
+#: xlform/src/view.surveyApp.coffee:589 js/i18nMissingStrings.es6:126
+msgid "This action cannot be undone."
+msgstr "Вы не сможете отменить это действие."
+
+#: xlform/src/view.surveyApp.templates.coffee:6
+msgid "Start from Scratch"
+msgstr "Начать с эскиза"
+
+#: xlform/src/view.surveyApp.templates.coffee:7 js/i18nMissingStrings.es6:53
+msgid "or"
+msgstr "или"
+
+#: xlform/src/view.surveyApp.templates.coffee:11 js/i18nMissingStrings.es6:54
+msgid "Import XLS"
+msgstr "Импорт XLS"
+
+#: xlform/src/view.surveyApp.templates.coffee:33 js/i18nMissingStrings.es6:68
+msgid "This form is currently empty."
+msgstr "Эта форма в настоящее время пуста."
+
+#: js/actions.es6:286
+msgid "updated profile successfully"
+msgstr "профиль успешно обновлен"
+
+#: js/actions.es6:297
+msgid "Some fields contain errors"
+msgstr "Некоторые поля содержат ошибки"
+
+#: js/actions.es6:299
+msgid "failed to update profile"
+msgstr "не удалось обновить профиль"
+
+#: js/actions.es6:322
+msgid "successfully uploaded file; processing may take a few minutes"
+msgstr "успешно загруженный файл; обработка может занять несколько минут"
+
+#: js/actions.es6:328
+msgid "Error: import.status not available"
+msgstr "Ошибка: import.status недоступен"
+
+#: js/actions.es6:357
+msgid "successfully updated"
+msgstr "успешно обновлено"
+
+#: js/actions.es6:397
+msgid "please check your connection and try again."
+msgstr "пожалуйста, проверьте ваше соединение и попробуйте еще раз."
+
+#: js/actions.es6:400
+msgid "if this problem persists, contact help@kobotoolbox.org"
+msgstr "если эта проблема сохраняется, свяжитесь с технической поддержкой"
+
+#: js/actions.es6:407
+msgid "your form id was not valid:"
+msgstr "идентификатор формы не действителен:"
+
+#: js/actions.es6:413
+msgid "your form cannot be deployed because it contains errors:"
+msgstr "форма не может быть опубликована, поскольку она содержит ошибки:"
+
+#: js/actions/help.es6:39
+msgid "Failed to get in app messages."
+msgstr "Не удалось попасть в сообщения приложения."
+
+#: js/actions/help.es6:52
+msgid "Failed to set message readTime."
+msgstr "Не удалось установить сообщение readTime."
+
+#: js/actions/help.es6:61
+msgid "Failed to set message acknowledged."
+msgstr ""
+
+#: js/app.es6:256
+msgid "path not found / recognized"
+msgstr "путь не найден / определен"
+
+#: js/components/RESTServices.es6:16 js/components/formEditors.es6:235
+#: js/components/formLanding.es6:464 js/components/formSubScreens.es6:132
+#: js/components/formSummary.es6:317 js/components/reports.es6:1106
+#: js/editorMixins/editableForm.es6:921
+msgid "Untitled"
+msgstr "Без названия"
+
+#: js/components/RESTServices/RESTServiceLogs.es6:57
+#: js/components/RESTServices/RESTServicesForm.es6:103
+msgid "Could not load REST Service"
+msgstr "Не может загрузить сервис REST"
+
+#: js/components/RESTServices/RESTServiceLogs.es6:76
+#: js/components/RESTServices/RESTServiceLogs.es6:97
+msgid "Could not load REST Service logs"
+msgstr "Не может загрузить журналы службы REST"
+
+#: js/components/RESTServices/RESTServiceLogs.es6:174
+msgid "Submission Failure Detail (##id##)"
+msgstr "Детали ошибки отправки данных (#id)"
+
+#: js/components/RESTServices/RESTServiceLogs.es6:235
+msgid "Loading…"
+msgstr "Загрузка…"
+
+#: js/components/RESTServices/RESTServiceLogs.es6:235
+msgid "Load more"
+msgstr "Загрузить еще"
+
+#: js/components/RESTServices/RESTServiceLogs.es6:247
+msgid "There are no logs yet"
+msgstr "Пока нет журналов"
+
+#: js/components/RESTServices/RESTServiceLogs.es6:261
+msgid "Submission"
+msgstr "Отправка"
+
+#: js/components/RESTServices/RESTServiceLogs.es6:263
+msgid "Status"
+msgstr "Статус"
+
+#: js/components/RESTServices/RESTServiceLogs.es6:267
+msgid "Retry all submissions"
+msgstr "Повторить все отправки"
+
+#: js/components/RESTServices/RESTServiceLogs.es6:282
+#: js/components/RESTServices/RESTServicesList.es6:168
+msgid "Success"
+msgstr "Успешно"
+
+#: js/components/RESTServices/RESTServiceLogs.es6:286
+#: js/components/RESTServices/RESTServicesList.es6:168
+msgid "Pending"
+msgstr "В ожидании"
+
+#: js/components/RESTServices/RESTServiceLogs.es6:289
+msgid "Pending (##count##×)"
+msgstr "В ожидании (#count)×)"
+
+#: js/components/RESTServices/RESTServiceLogs.es6:294
+#: js/components/RESTServices/RESTServicesList.es6:168
+msgid "Failed"
+msgstr "Ошибка"
+
+#: js/components/RESTServices/RESTServiceLogs.es6:302
+msgid "Open submission"
+msgstr "Открытая отправка"
+
+#: js/components/RESTServices/RESTServiceLogs.es6:319
+msgid "Retry submission"
+msgstr "Переотправить"
+
+#: js/components/RESTServices/RESTServiceLogs.es6:328
+msgid "More info"
+msgstr "Больше информации"
+
+#: js/components/RESTServices/RESTServiceLogs.es6:354
+#: js/components/RESTServices/RESTServicesForm.es6:402
+#: js/components/RESTServices/RESTServicesList.es6:210
+#: js/components/accountSettings.es6:170 js/components/accountSettings.es6:497
+#: js/components/formLanding.es6:473 js/components/formSubScreens.es6:151
+#: js/components/formSummary.es6:324 js/components/modal.es6:214
+#: js/components/modalForms/sharingForm.es6:258
+#: js/components/modalForms/submission.es6:398
+#: js/components/modalForms/translationSettings.es6:249
+#: js/components/reports.es6:1093 js/components/reports.es6:1136
+#: js/components/searchcollectionlist.es6:232
+#: js/components/searchcollectionlist.es6:257
+#: js/components/templatesList.es6:60 js/editorMixins/editableForm.es6:914
+#: js/lists/sidebarForms.es6:89 js/lists/sidebarForms.es6:111
+msgid "loading..."
+msgstr "загрузка..."
+
+#: js/components/RESTServices/RESTServicesForm.es6:19
+msgid "JSON"
+msgstr "JSON"
+
+#: js/components/RESTServices/RESTServicesForm.es6:23
+#: js/components/formEditors.es6:187
+msgid "XML"
+msgstr "XML"
+
+#: js/components/RESTServices/RESTServicesForm.es6:30
+msgid "No Authorization"
+msgstr "Нет авторизации"
+
+#: js/components/RESTServices/RESTServicesForm.es6:34
+msgid "Basic Authorization"
+msgstr "Базовая авторизация"
+
+#: js/components/RESTServices/RESTServicesForm.es6:223
+msgid "Name required"
+msgstr "Имя обязательно"
+
+#: js/components/RESTServices/RESTServicesForm.es6:227
+msgid "URL required"
+msgstr "Требуется URL-адрес"
+
+#: js/components/RESTServices/RESTServicesForm.es6:237
+msgid "Please enter both name and url of your service."
+msgstr "Пожалуйста, введите как имя, так и URL-адрес вашего сервиса."
+
+#: js/components/RESTServices/RESTServicesForm.es6:311
+msgid "Custom HTTP Headers"
+msgstr "Пользовательские http хедеры"
+
+#: js/components/RESTServices/RESTServicesForm.es6:319
+#: js/components/RESTServices/RESTServicesForm.es6:412
+#: js/components/accountSettings.es6:222
+#: js/components/searchcollectionlist.es6:125
+#: js/components/searchcollectionlist.es6:143
+msgid "Name"
+msgstr "Имя"
+
+#: js/components/RESTServices/RESTServicesForm.es6:330
+#: js/components/reportViewItem.es6:66
+msgid "Value"
+msgstr "Значение"
+
+#: js/components/RESTServices/RESTServicesForm.es6:355
+msgid "Add header"
+msgstr "Добавить заголовок"
+
+#: js/components/RESTServices/RESTServicesForm.es6:371
+msgid "Add field(s)"
+msgstr "Добавить поле (я)"
+
+#: js/components/RESTServices/RESTServicesForm.es6:378
+msgid "Select fields subset"
+msgstr "Выберите подмножество полей"
+
+#: js/components/RESTServices/RESTServicesForm.es6:414
+#: js/components/RESTServices/RESTServicesList.es6:150
+msgid "Service Name"
+msgstr "Название сервиса"
+
+#: js/components/RESTServices/RESTServicesForm.es6:423
+msgid "Endpoint URL"
+msgstr "URL конечной точки"
+
+#: js/components/RESTServices/RESTServicesForm.es6:425
+msgid "https://"
+msgstr "https://"
+
+#: js/components/RESTServices/RESTServicesForm.es6:438
+msgid "Enabled"
+msgstr "Включено"
+
+#: js/components/RESTServices/RESTServicesForm.es6:448
+msgid "Receive emails notifications"
+msgstr "Получать уведомления по электронной почте"
+
+#: js/components/RESTServices/RESTServicesForm.es6:458
+#: js/components/formEditors.es6:330
+#: js/components/modalForms/submission.es6:527
+#: js/components/searchcollectionlist.es6:128
+msgid "Type"
+msgstr "Тип"
+
+#: js/components/RESTServices/RESTServicesForm.es6:464
+msgid "Security"
+msgstr "Безопасность"
+
+#: js/components/RESTServices/RESTServicesForm.es6:484
+msgid "Username"
+msgstr "Имя пользователя"
+
+#: js/components/RESTServices/RESTServicesForm.es6:491
+msgid "Password"
+msgstr "Пароль"
+
+#: js/components/RESTServices/RESTServicesForm.es6:508
+#: js/components/mapSettings.es6:358
+#: js/components/modalForms/projectSettings.es6:874
+#: js/components/modalForms/tableColumnFilter.es6:235
+#: js/components/reports.es6:301 js/components/reports.es6:425
+#: js/components/reports.es6:712
+msgid "Save"
+msgstr "Сохранить"
+
+#: js/components/RESTServices/RESTServicesForm.es6:508 js/mixins.es6:763
+msgid "Create"
+msgstr "Создать"
+
+#: js/components/RESTServices/RESTServicesList.es6:45
+msgid "Could not load REST Services"
+msgstr "Не может загрузить сервис REST"
+
+#: js/components/RESTServices/RESTServicesList.es6:71
+msgid "You are about to delete ##target. This action cannot be undone."
+msgstr "Вы вот-вот удалите #target. Это действие не может быть отменено."
+
+#: js/components/RESTServices/RESTServicesList.es6:114
+msgid "This project doesn't have any REST Services yet!"
+msgstr "Этот проект еще не имеет каких-либо REST сервисов!"
+
+#: js/components/RESTServices/RESTServicesList.es6:118
+msgid ""
+"You can use REST Services to automatically post submissions to a third-party "
+"application."
+msgstr ""
+"Службы REST можно использовать для автоматического отправки материалов в "
+"другие системы."
+
+#: js/components/RESTServices/RESTServicesList.es6:120
+#: js/i18nMissingStrings.es6:183
+msgid "Learn more"
+msgstr "Узнать больше"
+
+#: js/components/RESTServices/RESTServicesList.es6:135
+msgid "REST Services: ##number##"
+msgstr "Сервисы REST: «#number ##"
+
+#: js/components/RESTServices/RESTServicesList.es6:144
+msgid "Need help?"
+msgstr "Нужна помощь?"
+
+#: js/components/RESTServices/RESTServicesList.es6:151
+msgid "Count"
+msgstr "Количество"
+
+#: js/components/RESTServices/RESTServicesList.es6:179
+#: js/components/modalForms/sharingForm.es6:299
+#: js/components/modalForms/submission.es6:512 js/components/table.es6:266
+msgid "Edit"
+msgstr "Редактировать"
+
+#: js/components/RESTServices/RESTServicesList.es6:188
+#: js/components/assetrow.es6:435 js/components/formEditors.es6:218
+#: js/components/formEditors.es6:380 js/components/librarySidebar.es6:142
+#: js/components/librarySidebar.es6:383 js/components/mapSettings.es6:199
+#: js/components/modalForms/submission.es6:133
+#: js/components/modalForms/translationSettings.es6:128
+#: js/components/reports.es6:294 js/formbuild/containers/KoboMatrix.es6:327
+#: js/formbuild/containers/KoboMatrix.es6:348 js/mixins.es6:568
+#: js/mixins.es6:571
+msgid "Delete"
+msgstr "Удалить"
+
+#: js/components/accountSettings.es6:76
+msgid "Male"
+msgstr "Мужской"
+
+#: js/components/accountSettings.es6:80
+msgid "Female"
+msgstr "Женский"
+
+#: js/components/accountSettings.es6:84
+msgid "Other"
+msgstr "Другое"
+
+#: js/components/accountSettings.es6:194 js/components/accountSettings.es6:565
+#: js/components/modalForms/projectSettings.es6:779
+#: js/components/modalForms/translationTable.es6:12
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#: js/components/accountSettings.es6:209
+msgid "Privacy"
+msgstr "Конфиденциальность"
+
+#: js/components/accountSettings.es6:216
+msgid "Require authentication to see forms and submit data"
+msgstr "Требуется аутентификация для проверки форм и отправки данных"
+
+#: js/components/accountSettings.es6:226
+msgid "Use this to display your real name to other users"
+msgstr ""
+"Используйте это для отображения вашего настоящего имени другим пользователям"
+
+#: js/components/accountSettings.es6:232
+msgid "Email"
+msgstr "Email"
+
+#: js/components/accountSettings.es6:245
+msgid "Modify Password"
+msgstr "Изменить пароль"
+
+#: js/components/accountSettings.es6:251
+msgid "Organization"
+msgstr "Организация"
+
+#: js/components/accountSettings.es6:260
+msgid "Organization Website"
+msgstr "Веб-сайт организации"
+
+#: js/components/accountSettings.es6:268
+msgid "This will be used to create a hyperlink for your organization name. "
+msgstr ""
+"Это будет использовано для создания гиперссылки на название организации. "
+
+#: js/components/accountSettings.es6:274
+msgid "Primary Sector"
+msgstr "Отрасль"
+
+#: js/components/accountSettings.es6:287
+msgid "Select the primary sector in which you work. "
+msgstr "Выберите основной сектор, в котором вы работаете. "
+
+#: js/components/accountSettings.es6:293
+msgid "Gender"
+msgstr "Пол"
+
+#: js/components/accountSettings.es6:308
+msgid "Bio"
+msgstr "Биография"
+
+#: js/components/accountSettings.es6:320
+msgid "Phone Number"
+msgstr "Номер телефона"
+
+#: js/components/accountSettings.es6:329
+msgid "Address"
+msgstr "Адрес"
+
+#: js/components/accountSettings.es6:338
+msgid "City"
+msgstr "Город"
+
+#: js/components/accountSettings.es6:347
+#: js/components/modalForms/projectSettings.es6:836
+msgid "Country"
+msgstr "Страна"
+
+#: js/components/accountSettings.es6:362
+msgid "Default Form Language"
+msgstr "Язык формы по умолчанию"
+
+#: js/components/accountSettings.es6:376
+msgid "Social"
+msgstr "Социальные сети"
+
+#: js/components/accountSettings.es6:411 js/editorMixins/editableForm.es6:853
+msgid "Metadata"
+msgstr "Метаданные"
+
+#: js/components/accountSettings.es6:448
+msgid "This field is required."
+msgstr "Это поле обязательно к заполнению."
+
+#: js/components/accountSettings.es6:458
+msgid "This field must match the Verify Password field."
+msgstr "Это поле должно соответствовать полю Verify Password."
+
+#: js/components/accountSettings.es6:523
+msgid "Reset Password"
+msgstr "Сбросить пароль"
+
+#: js/components/accountSettings.es6:528
+msgid "Current Password"
+msgstr "Текущий пароль"
+
+#: js/components/accountSettings.es6:536
+msgid "Forgot Password?"
+msgstr "Забыли пароль?"
+
+#: js/components/accountSettings.es6:542
+msgid "New Password"
+msgstr "Новый пароль"
+
+#: js/components/accountSettings.es6:552
+msgid "Verify Password"
+msgstr "Подтвердите пароль"
+
+#: js/components/assetrow.es6:34 js/components/reports.es6:800
+#: js/components/reports.es6:862
+msgid "untitled"
+msgstr "безымянный"
+
+#: js/components/assetrow.es6:328 js/i18nMissingStrings.es6:204
+msgid "More Actions"
+msgstr "Больше действий"
+
+#: js/components/assetrow.es6:375 js/components/formEditors.es6:367
+#: js/components/formLanding.es6:385
+msgid "Download"
+msgstr "Скачать"
+
+#: js/components/assetrow.es6:382
+msgid "Move to"
+msgstr "Переместить в"
+
+#: js/components/assetrow.es6:413 js/mixins.es6:594
+msgid "Archive"
+msgstr "Архивировать"
+
+#: js/components/assetrow.es6:424 js/components/formLanding.es6:414
+msgid "Create template"
+msgstr "Создать шаблон"
+
+#: js/components/drawer.es6:73 js/components/helpBubbles.es6:161
+#: js/components/librarySidebar.es6:265
+msgid "new"
+msgstr "новый"
+
+#: js/components/drawer.es6:149 js/components/searchcollectionlist.es6:200
+msgid "Projects"
+msgstr "Проекты"
+
+#: js/components/drawer.es6:150 js/components/searchcollectionlist.es6:203
+msgid "Library"
+msgstr "Библиотека"
+
+#: js/components/drawer.es6:171
+msgid "Projects (legacy)"
+msgstr "Проекты"
+
+#: js/components/drawer.es6:179
+msgid "Source"
+msgstr "Источник"
+
+#: js/components/formEditors.es6:106
+msgid "Failed to retrieve the export task."
+msgstr "Не удалось получить задачу экспорта."
+
+#: js/components/formEditors.es6:110
+msgid "Failed to create the export."
+msgstr "Не удалось создать экспорт."
+
+#: js/components/formEditors.es6:179 js/components/map.es6:737
+msgid "Default"
+msgstr "По умолчанию"
+
+#: js/components/formEditors.es6:216
+msgid "Delete export?"
+msgstr "Удалить экспорт?"
+
+#: js/components/formEditors.es6:217
+msgid ""
+"Are you sure you want to delete this export? This action is not reversible."
+msgstr "Вы уверены, что хотите удалить этот экспорт? Это действие не обратимо."
+
+#: js/components/formEditors.es6:218 js/components/librarySidebar.es6:117
+#: js/components/librarySidebar.es6:142 js/components/librarySidebar.es6:172
+#: js/components/mapSettings.es6:199 js/components/modal.es6:161
+#: js/components/modalForms/copyTeamPermissions.es6:79
+#: js/components/modalForms/submission.es6:133
+#: js/components/modalForms/translationSettings.es6:128
+#: js/components/modalForms/translationSettings.es6:210
+#: js/components/modalForms/translationTable.es6:149
+#: js/components/table.es6:799 js/editorMixins/editableForm.es6:574
+#: js/formbuild/containers/KoboMatrix.es6:179
+#: js/formbuild/containers/KoboMatrix.es6:327
+#: js/formbuild/containers/KoboMatrix.es6:348 js/mixins.es6:52
+#: js/mixins.es6:113 js/mixins.es6:471 js/mixins.es6:572 js/mixins.es6:594
+#: js/mixins.es6:621 js/mixins.es6:763
+msgid "Cancel"
+msgstr "Отмена"
+
+#: js/components/formEditors.es6:223
+msgid "Failed to delete export."
+msgstr "Не удалось удалить экспорт."
+
+#: js/components/formEditors.es6:241
+msgid "Download Data"
+msgstr "Скачать данные"
+
+#: js/components/formEditors.es6:247
+msgid "Select export type"
+msgstr "Выберите тип экспорта"
+
+#: js/components/formEditors.es6:250
+msgid "XLS"
+msgstr "XLS"
+
+#: js/components/formEditors.es6:251
+msgid "XLS (legacy)"
+msgstr "XLS (legacy)"
+
+#: js/components/formEditors.es6:252
+msgid "CSV"
+msgstr "CSV"
+
+#: js/components/formEditors.es6:253
+msgid "CSV (legacy)"
+msgstr "CSV (legacy)"
+
+#: js/components/formEditors.es6:254
+msgid "Media Attachments (ZIP)"
+msgstr "Экспорт zip папки вложений"
+
+#: js/components/formEditors.es6:255
+msgid "GPS coordinates (KML)"
+msgstr "GPS coordinates (KML)"
+
+#: js/components/formEditors.es6:256
+msgid "Excel Analyser"
+msgstr "Excel Analyser"
+
+#: js/components/formEditors.es6:257
+msgid "SPSS Labels"
+msgstr "SPSS Labels"
+
+#: js/components/formEditors.es6:263
+msgid "Value and header format"
+msgstr "Value and header format"
+
+#: js/components/formEditors.es6:266
+msgid "XML values and headers"
+msgstr "XML values and headers"
+
+#: js/components/formEditors.es6:268
+#: js/components/modalForms/tableColumnFilter.es6:147
+msgid "Labels"
+msgstr "Метки"
+
+#: js/components/formEditors.es6:283
+msgid "Include groups in headers"
+msgstr "Включить группы в хедеры"
+
+#: js/components/formEditors.es6:288
+msgid "Group separator"
+msgstr "Групповой разделитель"
+
+#: js/components/formEditors.es6:300
+msgid "Include fields from all ___ deployed versions"
+msgstr "Включите поля из всех развернутых версий"
+
+#: js/components/formEditors.es6:315
+msgid "Export"
+msgstr "Экспорт"
+
+#: js/components/formEditors.es6:326
+msgid "Exports"
+msgstr "Экспортированные данные"
+
+#: js/components/formEditors.es6:331 js/components/searchcollectionlist.es6:149
+msgid "Created"
+msgstr "Создан"
+
+#: js/components/formEditors.es6:332 js/components/header.es6:149
+#: js/components/map.es6:729
+msgid "Language"
+msgstr "Язык"
+
+#: js/components/formEditors.es6:333
+msgid "Include Groups"
+msgstr "Включить группы"
+
+#: js/components/formEditors.es6:334
+msgid "Multiple Versions"
+msgstr "Несколько версий"
+
+#: js/components/formEditors.es6:354 js/components/formEditors.es6:361
+msgid "Yes"
+msgstr "Да"
+
+#: js/components/formEditors.es6:354 js/components/formEditors.es6:361
+msgid "No"
+msgstr "Нет"
+
+#: js/components/formEditors.es6:373
+msgid "Export Failed"
+msgstr "Экспорт не удался"
+
+#: js/components/formEditors.es6:377
+msgid "processing..."
+msgstr "обработка..."
+
+#: js/components/formLanding.es6:51
+msgid "undeployed"
+msgstr "неопубликован"
+
+#: js/components/formLanding.es6:66 js/components/formLanding.es6:153
+#: js/components/searchcollectionlist.es6:134
+#: js/components/searchcollectionlist.es6:152
+msgid "Last Modified"
+msgstr "Последнее изменение"
+
+#: js/components/formLanding.es6:70
+msgid "questions"
+msgstr "вопросы"
+
+#: js/components/formLanding.es6:79
+msgid "redeploy"
+msgstr "Повторно опубликовать"
+
+#: js/components/formLanding.es6:86
+msgid "deploy"
+msgstr "опубликовать"
+
+#: js/components/formLanding.es6:93
+msgid "unarchive"
+msgstr "Разархивировать"
+
+#: js/components/formLanding.es6:146
+msgid "Form history"
+msgstr "История формы"
+
+#: js/components/formLanding.es6:152
+msgid "Version"
+msgstr "Версия"
+
+#: js/components/formLanding.es6:154 js/mixins.es6:49 js/mixins.es6:468
+msgid "Clone"
+msgstr "Дублировать"
+
+#: js/components/formLanding.es6:163
+msgid "Deployed"
+msgstr "Опубликовано"
+
+#: js/components/formLanding.es6:173
+msgid "Clone this version as a new project"
+msgstr "Клонировать эту версию как новый проект"
+
+#: js/components/formLanding.es6:186
+msgid "Hide full history"
+msgstr "Скрыть полную историю"
+
+#: js/components/formLanding.es6:186
+msgid "Show full history"
+msgstr "Показать полную историю"
+
+#: js/components/formLanding.es6:198
+msgid "Online-Offline (multiple submission)"
+msgstr "Онлайн-оффлайн (несколько ответов)"
+
+#: js/components/formLanding.es6:199
+msgid ""
+"This allows online and offline submissions and is the best option for "
+"collecting data in the field. "
+msgstr ""
+"Это позволяет собирать данные онлайн и оффлайн и является лучшим вариантом "
+"для сбора данных в этой области. "
+
+#: js/components/formLanding.es6:202
+msgid "Online-Only (multiple submissions)"
+msgstr "Онлайн-только (несколько анкет)"
+
+#: js/components/formLanding.es6:203
+msgid ""
+"This is the best option when entering many records at once on a computer, e."
+"g. for transcribing paper records."
+msgstr ""
+"Это лучший вариант при вводе многих записей одновременно на компьютере, "
+"например, для расшифровки бумажных записей."
+
+#: js/components/formLanding.es6:206
+msgid "Online-Only (single submission)"
+msgstr "Онлайн-только (единичная анкета)"
+
+#: js/components/formLanding.es6:207
+msgid ""
+"This allows a single submission, and can be paired with the \"returnURL\" "
+"parameter to redirect the user to a URL of your choice after the form has "
+"been submitted."
+msgstr ""
+"Это позволяет отправить одну анкету, и может быть в паре с параметром "
+"\"returnURL\", чтобы перенаправить пользователя на URL по вашему выбору "
+"после того, как форма была отправилена."
+
+#: js/components/formLanding.es6:210
+msgid "Embeddable web form code"
+msgstr "Встраиваемый код веб-формы"
+
+#: js/components/formLanding.es6:211
+msgid ""
+"Use this html5 code snippet to integrate your form on your own website using "
+"smaller margins. "
+msgstr ""
+"Используйте этот фрагмент кода HTML5 для интеграции формы на своем веб-сайте "
+"с использованием меньших полей. "
+
+#: js/components/formLanding.es6:214
+msgid "View only"
+msgstr "Только просмотр"
+
+#: js/components/formLanding.es6:215
+msgid ""
+"Use this version for testing, getting feedback. Does not allow submitting "
+"data. "
+msgstr ""
+"Используйте эту версию для тестирования, получения обратной связи. Не "
+"позволяет отправлять данные. "
+
+#: js/components/formLanding.es6:218
+msgid "Android application"
+msgstr "Приложение Android"
+
+#: js/components/formLanding.es6:219
+msgid "Use this option to collect data in the field with your Android device."
+msgstr ""
+"Используйте эту опцию для сбора данных в полевых условиях с вашего "
+"устройства Android."
+
+#: js/components/formLanding.es6:244 js/components/formSummary.es6:209
+msgid "Collect data"
+msgstr "Собрать данные"
+
+#: js/components/formLanding.es6:269 js/components/formLanding.es6:290
+msgid "Copy"
+msgstr "Копировать"
+
+#: js/components/formLanding.es6:276 js/components/table.es6:260
+msgid "Open"
+msgstr "Открыть"
+
+#: js/components/formLanding.es6:283
+msgid "Download KoboCollect"
+msgstr "Скачать приложение"
+
+#: js/components/formLanding.es6:309
+msgid "Install"
+msgstr "Установить"
+
+#: js/components/formLanding.es6:313
+msgid "on your Android device."
+msgstr "на устройстве Android."
+
+#: js/components/formLanding.es6:315
+msgid "Click on"
+msgstr "Нажмите на"
+
+#: js/components/formLanding.es6:315
+msgid "to open settings."
+msgstr "для открытия настроек."
+
+#: js/components/formLanding.es6:317
+msgid "Enter the server URL"
+msgstr "Введите URL-адрес сервера"
+
+#: js/components/formLanding.es6:319
+msgid "and your username and password"
+msgstr "и ваше имя пользователя и пароль"
+
+#: js/components/formLanding.es6:321
+msgid "Open \"Get Blank Form\" and select this project. "
+msgstr "Откройте \"Get Blank Form\" и выберите этот проект. "
+
+#: js/components/formLanding.es6:322
+msgid "Open \"Enter Data.\""
+msgstr "Откройте \"Введите данные\"."
+
+#: js/components/formLanding.es6:348
+msgid "edit"
+msgstr "редактировать"
+
+#: js/components/formLanding.es6:354
+msgid "Editing capabilities not granted, you can only view this form"
+msgstr ""
+"Не предоставленные возможности редактирования можно просматривать только эту "
+"форму"
+
+#: js/components/formLanding.es6:361
+msgid "Preview"
+msgstr "Предпросмотр"
+
+#: js/components/formLanding.es6:368
+#: js/components/modalForms/projectSettings.es6:135
+msgid "Replace form"
+msgstr "Замена формы"
+
+#: js/components/formLanding.es6:393
+msgid "Download PDF"
+msgstr "Скачать PDF"
+
+#: js/components/formLanding.es6:399
+msgid "Share this project"
+msgstr "Поделиться проектом"
+
+#: js/components/formLanding.es6:405
+msgid "Clone this project"
+msgstr "Клонировать этот проект"
+
+#: js/components/formLanding.es6:420 js/components/formLanding.es6:454
+msgid "Manage Translations"
+msgstr "Управление переводами"
+
+#: js/components/formLanding.es6:433
+msgid "Languages:"
+msgstr "Языки:"
+
+#: js/components/formLanding.es6:436
+msgid "This project has no languages defined yet"
+msgstr "Этот проект еще не определил языки"
+
+#: js/components/formLanding.es6:443 js/components/modalForms/submission.es6:31
+#: js/components/modalForms/translationSettings.es6:282
+#: js/components/reports.es6:647
+msgid "Unnamed language"
+msgstr "Неназванный язык"
+
+#: js/components/formLanding.es6:486
+msgid "Current version"
+msgstr "Текущая версия"
+
+#: js/components/formLanding.es6:487
+msgid "Archived version"
+msgstr "Архивная версия"
+
+#: js/components/formLanding.es6:488
+msgid "Draft version"
+msgstr "Черновая версия"
+
+#: js/components/formSubScreens.es6:162 js/components/formSummary.es6:335
+msgid "Access Denied"
+msgstr "Доступ закрыт"
+
+#: js/components/formSubScreens.es6:164 js/components/formSummary.es6:337
+msgid "You do not have permission to view this page."
+msgstr "У тебя нет разрешения на просмотр этой страницы."
+
+#: js/components/formSummary.es6:142 js/components/searchcollectionlist.es6:155
+msgid "Submissions"
+msgstr "Отправки"
+
+#: js/components/formSummary.es6:148
+msgid "Past 7 days"
+msgstr "Последние 7 дней"
+
+#: js/components/formSummary.es6:151
+msgid "Past 31 days"
+msgstr "За последние 31 день"
+
+#: js/components/formSummary.es6:158
+msgid "No chart data available for current period."
+msgstr "Данные диаграммы за текущий период недоступны."
+
+#: js/components/formSummary.es6:166 js/components/formSummary.es6:169
+msgid "Today"
+msgstr "Сегодня"
+
+#: js/components/formSummary.es6:186
+msgid "Total"
+msgstr "Всего"
+
+#: js/components/formSummary.es6:215
+msgid "Share project"
+msgstr "Поделиться"
+
+#: js/components/formSummary.es6:227
+msgid "Edit form"
+msgstr "Редактировать форму"
+
+#: js/components/formSummary.es6:233 js/editorMixins/editableForm.es6:708
+msgid "Preview form"
+msgstr "Предпросмотр формы"
+
+#: js/components/formSummary.es6:241 js/i18nMissingStrings.es6:150
+msgid "Reports"
+msgstr "Отчеты"
+
+#: js/components/formSummary.es6:242 js/components/formViewTabs.es6:104
+msgid "Reports (legacy)"
+msgstr "Отчеты (с историей)"
+
+#: js/components/formSummary.es6:243 js/components/formViewTabs.es6:105
+msgid "Table"
+msgstr "Таблица"
+
+#: js/components/formSummary.es6:244 js/components/formViewTabs.es6:106
+msgid "Gallery"
+msgstr "Галерея"
+
+#: js/components/formSummary.es6:245 js/components/formViewTabs.es6:107
+msgid "Downloads"
+msgstr "Загрузки"
+
+#: js/components/formSummary.es6:246 js/components/formViewTabs.es6:108
+msgid "Map"
+msgstr "Карта"
+
+#: js/components/formSummary.es6:295
+msgid "Team members"
+msgstr "Участники команды"
+
+#: js/components/formSummary.es6:350
+#: js/components/modalForms/projectSettings.es6:802
+msgid "Description"
+msgstr "Описание"
+
+#: js/components/formSummary.es6:357
+msgid "Project country"
+msgstr "Страна проекта"
+
+#: js/components/formSummary.es6:363
+#: js/components/modalForms/projectSettings.es6:820
+msgid "Sector"
+msgstr "Отрасль"
+
+#: js/components/formSummary.es6:380
+msgid "Form details"
+msgstr "Подробная информация о форме"
+
+#: js/components/formSummary.es6:385 js/components/templatesList.es6:81
+msgid "Last modified"
+msgstr "Последнее изменение"
+
+#: js/components/formSummary.es6:390
+msgid "Latest submission"
+msgstr "Последний ответ"
+
+#: js/components/formSummary.es6:396 js/components/templatesList.es6:84
+msgid "Questions"
+msgstr "Вопросы"
+
+#: js/components/formSummary.es6:403
+msgid "Languages"
+msgstr "Языки"
+
+#: js/components/formSummary.es6:421
+msgid "Quick Links"
+msgstr "Быстрые ссылки"
+
+#: js/components/formSummary.es6:431 js/i18nMissingStrings.es6:149
+msgid "Data"
+msgstr "Данные"
+
+#: js/components/formViewTabs.es6:71
+msgid "Summary"
+msgstr "Резюме"
+
+#: js/components/formViewTabs.es6:116
+msgid "Sharing"
+msgstr "Поделиться"
+
+#: js/components/formViewTabs.es6:117
+msgid "REST Services"
+msgstr "Rest Services"
+
+#: js/components/formViewTabs.es6:118
+msgid "Kobocat (legacy)"
+msgstr ""
+
+#: js/components/header.es6:86
+msgid "Please refresh the page"
+msgstr "Пожалуйста, обновите страницу"
+
+#: js/components/header.es6:132
+msgid "Account Settings"
+msgstr "Настройки аккаунта"
+
+#: js/components/header.es6:139
+msgid "Terms of Service"
+msgstr "Условия использования"
+
+#: js/components/header.es6:142
+msgid "Privacy Policy"
+msgstr "Политика конфиденциальности"
+
+#: js/components/header.es6:161
+msgid "Logout"
+msgstr "Выйти"
+
+#: js/components/header.es6:171
+msgid "n/a"
+msgstr "н/д"
+
+#: js/components/header.es6:196
+msgid "Please enter a title for your project"
+msgstr "Пожалуйста, введите название для вашего проекта"
+
+#: js/components/header.es6:260
+msgid "Search Projects"
+msgstr "Поиск Проектов"
+
+#: js/components/header.es6:265 js/editorMixins/editableForm.es6:883
+msgid "Search Library"
+msgstr "Библиотека поиска"
+
+#: js/components/header.es6:279
+msgid "Project title"
+msgstr "Название проекта"
+
+#: js/components/header.es6:288
+msgid "submissions"
+msgstr "ответы"
+
+#: js/components/helpBubbles.es6:239
+msgid "Intercom"
+msgstr "Intercom"
+
+#: js/components/helpBubbles.es6:408
+msgid "Help Resources"
+msgstr "Ресурсы справки"
+
+#: js/components/helpBubbles.es6:418
+msgid "KoBoToolbox Help Center"
+msgstr ""
+
+#: js/components/helpBubbles.es6:419
+msgid ""
+"A vast collection of user support articles and tutorials related to KoBo"
+msgstr ""
+
+#: js/components/helpBubbles.es6:429
+msgid "KoBoToolbox Community Forum"
+msgstr ""
+
+#: js/components/helpBubbles.es6:430
+msgid ""
+"Post your questions to get answers from experienced KoBo users around the "
+"world"
+msgstr ""
+
+#: js/components/helpBubbles.es6:435
+msgid "Notifications"
+msgstr "Уведомления"
+
+#: js/components/helpBubbles.es6:527
+msgid "Help"
+msgstr "Помощь"
+
+#: js/components/librarySidebar.es6:115 js/components/librarySidebar.es6:117
+msgid "Create collection"
+msgstr "Создать коллекцию"
+
+#: js/components/librarySidebar.es6:116
+msgid ""
+"Please enter the name of your new Collection. Collections can help you "
+"better organize your library, and it is possible to share each collection "
+"with different people."
+msgstr ""
+"Пожалуйста, введите название вашей новой коллекции. Коллекции могут помочь "
+"вам лучше организовать вашу библиотеку, и можно поделиться каждой коллекцией "
+"с разными людьми."
+
+#: js/components/librarySidebar.es6:140
+msgid "Delete collection"
+msgstr "Удалить коллекцию"
+
+#: js/components/librarySidebar.es6:141
+msgid ""
+"are you sure you want to delete this collection? this action is not "
+"reversible"
+msgstr "Вы уверены, что хотите удалить эту коллекцию? это действие не обратимо"
+
+#: js/components/librarySidebar.es6:169
+msgid "Rename collection"
+msgstr "Переименовать коллекцию"
+
+#: js/components/librarySidebar.es6:170
+msgid "Please enter the name of your new collection."
+msgstr "Пожалуйста, введите название вашей новой коллекции."
+
+#: js/components/librarySidebar.es6:172 js/mixins.es6:52 js/mixins.es6:113
+#: js/mixins.es6:471
+msgid "Ok"
+msgstr "Ок"
+
+#: js/components/librarySidebar.es6:247
+msgid "unexpected error removing public permission"
+msgstr "неожиданная ошибка удаления публичного разрешения"
+
+#: js/components/librarySidebar.es6:269
+#: js/components/modalForms/submission.es6:528 js/lists/library.es6:65
+msgid "Question"
+msgstr "Вопрос"
+
+#: js/components/librarySidebar.es6:274 js/lists/library.es6:67
+msgid "Template"
+msgstr "Шаблон"
+
+#: js/components/librarySidebar.es6:285
+msgid "upload"
+msgstr "загрузить"
+
+#: js/components/librarySidebar.es6:291
+msgid "collection"
+msgstr "Коллекция"
+
+#: js/components/librarySidebar.es6:302
+#: js/components/searchcollectionlist.es6:111
+msgid "My Library"
+msgstr "Моя библиотека"
+
+#: js/components/librarySidebar.es6:342
+msgid "Make Private"
+msgstr "Сделать личным"
+
+#: js/components/librarySidebar.es6:351
+msgid "Make Public"
+msgstr "Сделать публичным"
+
+#: js/components/librarySidebar.es6:361
+msgid "Share"
+msgstr "Поделиться"
+
+#: js/components/librarySidebar.es6:373
+msgid "Rename"
+msgstr "Переименовать"
+
+#: js/components/librarySidebar.es6:394
+msgid "Unsubscribe"
+msgstr "Отписаться"
+
+#: js/components/librarySidebar.es6:409
+msgid "Public Collections"
+msgstr "Публичные коллекции"
+
+#: js/components/librarySidebar.es6:435
+msgid "by ___"
+msgstr "от ___"
+
+#: js/components/librarySidebar.es6:447
+msgid "unsubscribe"
+msgstr "отписаться"
+
+#: js/components/librarySidebar.es6:454
+msgid "subscribe"
+msgstr "подписаться"
+
+#: js/components/list.es6:47
+msgid "Search..."
+msgstr "Поиск..."
+
+#: js/components/list.es6:179
+msgid "Select Collection Name"
+msgstr "Выберите название коллекции"
+
+#: js/components/list.es6:181
+msgid "Collections are loading..."
+msgstr "Коллекции загружаются..."
+
+#: js/components/list.es6:228
+msgid "assets found"
+msgstr "найденные активы"
+
+#: js/components/list.es6:234
+msgid "expand details"
+msgstr "расширить детали"
+
+#: js/components/list.es6:273
+msgid "searching for \"___\""
+msgstr "искать \"___\""
+
+#: js/components/list.es6:276 js/components/list.es6:286
+msgid "tagged with [___]"
+msgstr "пометка [___]"
+
+#: js/components/list.es6:283
+msgid "searched for \"___\""
+msgstr "искать \"___\""
+
+#: js/components/list.es6:289
+msgid "found ## results"
+msgstr "найдено ## результатов"
+
+#: js/components/list.es6:296
+msgid "## ___ available"
+msgstr "## ___ доступно"
+
+#: js/components/list.es6:340
+msgid "success"
+msgstr "успешно"
+
+#: js/components/list.es6:341
+msgid "yes"
+msgstr "да"
+
+#: js/components/list.es6:341
+msgid "no"
+msgstr "нет"
+
+#: js/components/list.es6:344
+msgid "count"
+msgstr "количество"
+
+#: js/components/map.es6:129
+msgid ""
+"This map display is currently limited to 5000 records for performance "
+"reasons."
+msgstr ""
+"Этот отображение карты в настоящее время ограничено 5000 записей по причинам "
+"производительности."
+
+#: js/components/map.es6:267 js/components/map.es6:410
+#: js/components/modalForms/submission.es6:115 js/components/table.es6:114
+#: js/components/table.es6:123
+msgid "Error: could not load data."
+msgstr "Ошибка: не может загрузить данные."
+
+#: js/components/map.es6:673
+msgid "Disaggregate by survey responses"
+msgstr "Сортировка по ответам на опросы"
+
+#: js/components/map.es6:678
+msgid "Disaggregated using:"
+msgstr "Сортировка с использованием:"
+
+#: js/components/map.es6:692
+msgid "Toggle Fullscreen"
+msgstr "Полноэкранный режим"
+
+#: js/components/map.es6:698
+msgid "Show as points"
+msgstr "Показать в качестве точек"
+
+#: js/components/map.es6:704
+msgid "Toggle layers"
+msgstr "Слои переключения"
+
+#: js/components/map.es6:710
+msgid "Map display settings"
+msgstr "Настройки отображения карты"
+
+#: js/components/map.es6:716
+msgid "Show as heatmap"
+msgstr "Показать как тепловую карту"
+
+#: js/components/map.es6:742
+msgid "-- See all data --"
+msgstr "-- Смотрите все данные --"
+
+#: js/components/map.es6:746
+msgid "untranslated: "
+msgstr "Непереведенные: "
+
+#: js/components/map.es6:746
+msgid "Question label not set"
+msgstr "Метка вопроса не установлена"
+
+#: js/components/map.es6:762 js/components/mapSettings.es6:351
+#: js/components/modalForms/tableColumnFilter.es6:230
+#: js/components/reports.es6:421
+msgid "Reset"
+msgstr "Сброс"
+
+#: js/components/map.es6:769
+msgid "not set"
+msgstr "не задано"
+
+#: js/components/map.es6:789
+msgid "Legend"
+msgstr "Легенда"
+
+#: js/components/map.es6:804
+msgid "Map Settings"
+msgstr "Настройки карты"
+
+#: js/components/mapSettings.es6:51
+msgid "Best for qualitative data"
+msgstr "Лучше всего подходит для качественных данных"
+
+#: js/components/mapSettings.es6:52
+msgid "Best for sequential data"
+msgstr "Лучше всего подходит для последовательных данных"
+
+#: js/components/mapSettings.es6:53
+msgid "Best for diverging data"
+msgstr "Лучше всего подходит для расхождения данных"
+
+#: js/components/mapSettings.es6:154
+msgid "Please add a name for your layer file."
+msgstr "Пожалуйста, добавьте имя для слоя."
+
+#: js/components/mapSettings.es6:173
+msgid "Upload error: ##error_message##."
+msgstr "Ошибка загрузки: «#error_message»."
+
+#: js/components/mapSettings.es6:179
+msgid "Upload error: not a valid map overlay format."
+msgstr "Ошибка загрузки: не действительный формат слоя карты."
+
+#: js/components/mapSettings.es6:194
+msgid "Delete File"
+msgstr "Удалить файл"
+
+#: js/components/mapSettings.es6:196
+msgid ""
+"Are you sure you want to delete this file? <br/><br/><strong>This action "
+"cannot be undone.</strong>"
+msgstr ""
+"Вы уверены, что хотите удалить этот файл? <br/><br/><strong>Это действие не "
+"может быть отменено.</strong>"
+
+#: js/components/mapSettings.es6:215
+msgid "Overlays"
+msgstr "Наложение"
+
+#: js/components/mapSettings.es6:217
+msgid "Marker Colors"
+msgstr "Цвета маркеров"
+
+#: js/components/mapSettings.es6:219
+msgid "Geopoint question"
+msgstr "Вопрос с координатами"
+
+#: js/components/mapSettings.es6:260
+msgid "Choose the Geopoint question you would like to display on the map:"
+msgstr ""
+"Выберите вопрос с координатами, который вы хотели бы отобразить на карте:"
+
+#: js/components/mapSettings.es6:289
+msgid "Uploaded layers"
+msgstr "Загруженные слои"
+
+#: js/components/mapSettings.es6:300
+msgid "Delete layer"
+msgstr "Удалить слой"
+
+#: js/components/mapSettings.es6:312
+msgid ""
+"Use the form below to upload files with map data in one of these formats: "
+"CSV, KML, KMZ, WKT or GEOJSON. The data will be made available as layers for "
+"display on the map."
+msgstr ""
+"Используйте форму ниже, чтобы загрузить файлы с данными карты в одном из "
+"этих форматов: CSV, KML, КМЗ, WKT или GEOJSON. Данные будут доступны в "
+"качестве слоев для отображения на карте."
+
+#: js/components/mapSettings.es6:317
+msgid "Layer name"
+msgstr "Имя слоя"
+
+#: js/components/mapSettings.es6:328
+msgid "Upload"
+msgstr "Загрузить"
+
+#: js/components/mapSettings.es6:337
+msgid "Choose the color set for the disaggregated map markers."
+msgstr "Выберите цветовой набор для разделенных маркеров карты."
+
+#: js/components/modal.es6:38
+msgid "Sharing Permissions"
+msgstr "Разрешения"
+
+#: js/components/modal.es6:44 js/components/modal.es6:133
+msgid "Uploading XLS file"
+msgstr "Загрузка файла XLS"
+
+#: js/components/modal.es6:45 js/components/modal.es6:134
+msgid "Uploading: "
+msgstr "Загрузки: "
+
+#: js/components/modal.es6:63 js/editorMixins/editableForm.es6:945
+msgid "Form Preview"
+msgstr "Form Preview"
+
+#: js/components/modal.es6:78
+msgid "Edit REST Service"
+msgstr "Редактировать сервиса REST"
+
+#: js/components/modal.es6:80
+msgid "New REST Service"
+msgstr "Новый сервис REST"
+
+#: js/components/modal.es6:89
+msgid "Table display options"
+msgstr "Параметры отображения таблицы"
+
+#: js/components/modal.es6:93
+msgid "Manage Languages"
+msgstr "Управление языками"
+
+#: js/components/modal.es6:98
+msgid "Translations Table"
+msgstr "Таблица переводов"
+
+#: js/components/modal.es6:142 js/components/modal.es6:148
+#: js/components/modal.es6:151
+msgid "Submission Record"
+msgstr "Запись ответа"
+
+#: js/components/modal.es6:148 js/components/modal.es6:151
+#: js/components/table.es6:829 js/components/table.es6:957
+msgid "of"
+msgstr "из"
+
+#: js/components/modal.es6:161
+msgid "Close"
+msgstr "Закрыть"
+
+#: js/components/modal.es6:173
+msgid "Close Translations Table?"
+msgstr "Закрыть таблицу переводов?"
+
+#: js/components/modal.es6:174
+#: js/components/modalForms/translationTable.es6:148
+msgid "You will lose all unsaved changes."
+msgstr "Вы потеряете все несохраненные изменения."
+
+#: js/components/modalForms/copyTeamPermissions.es6:34
+msgid "permissions were copied successfully"
+msgstr "разрешения были скопированы успешно"
+
+#: js/components/modalForms/copyTeamPermissions.es6:73
+msgid ""
+"You are about to copy permissions from ##source to ##target. This action "
+"cannot be undone."
+msgstr ""
+"Вы вот-вот скопируете разрешения от #source до #target. Это действие не "
+"может быть отменено."
+
+#: js/components/modalForms/copyTeamPermissions.es6:77
+msgid "Are you sure you want to copy permissions?"
+msgstr "Вы уверены, что хотите скопировать разрешения?"
+
+#: js/components/modalForms/copyTeamPermissions.es6:79
+msgid "Proceed"
+msgstr "Продолжить"
+
+#: js/components/modalForms/copyTeamPermissions.es6:113
+#: js/components/modalForms/submission.es6:309
+#: js/components/modalForms/submission.es6:386 js/components/table.es6:473
+msgid "Unlabelled"
+msgstr "Без маркировки"
+
+#: js/components/modalForms/copyTeamPermissions.es6:125
+msgid "Copy team from another project"
+msgstr "Копирование команды из другого проекта"
+
+#: js/components/modalForms/copyTeamPermissions.es6:132
+msgid ""
+"This will overwrite any existing sharing settings defined in this project."
+msgstr ""
+"Это позволит переписать любые существующие параметры совместного "
+"использования, определенные в этом проекте."
+
+#: js/components/modalForms/copyTeamPermissions.es6:141
+msgid "Select source project…"
+msgstr "Выберите исходный проект..."
+
+#: js/components/modalForms/copyTeamPermissions.es6:154
+msgid "copy"
+msgstr "копировать"
+
+#: js/components/modalForms/projectSettings.es6:76
+#: js/components/modalForms/projectSettings.es6:197
+#: js/components/modalForms/projectSettings.es6:218
+msgid "Import"
+msgstr "Импорт"
+
+#: js/components/modalForms/projectSettings.es6:79
+#: js/components/modalForms/submission.es6:492
+#: js/components/modalForms/submission.es6:500
+#: js/components/modalForms/translationTable.es6:176
+#: js/components/table.es6:948
+msgid "Next"
+msgstr "Следующий"
+
+#: js/components/modalForms/projectSettings.es6:133
+#: js/components/modalForms/projectSettings.es6:873
+msgid "Create project"
+msgstr "Создать проект"
+
+#: js/components/modalForms/projectSettings.es6:139
+msgid "Project settings"
+msgstr "Настройки проекта"
+
+#: js/components/modalForms/projectSettings.es6:145
+msgid "Choose a source"
+msgstr "Выберите источник"
+
+#: js/components/modalForms/projectSettings.es6:146
+msgid "Choose template"
+msgstr "Выбрать шаблон"
+
+#: js/components/modalForms/projectSettings.es6:147
+msgid "Upload XLSForm"
+msgstr "Загрузить XLSForm"
+
+#: js/components/modalForms/projectSettings.es6:148
+msgid "Import XLSForm"
+msgstr "Импорт XLSForm"
+
+#: js/components/modalForms/projectSettings.es6:149
+msgid "Project details"
+msgstr "Детали проекта"
+
+#: js/components/modalForms/projectSettings.es6:210
+msgid "Choose"
+msgstr "Выбрать"
+
+#: js/components/modalForms/projectSettings.es6:413
+msgid "Error: asset could not be created."
+msgstr "Ошибка: актив не может быть создан."
+
+#: js/components/modalForms/projectSettings.es6:433
+msgid "Error: new project could not be created."
+msgstr "Ошибка: новый проект не может быть создан."
+
+#: js/components/modalForms/projectSettings.es6:457
+#: js/components/modalForms/projectSettings.es6:872 js/mixins.es6:767
+msgid "Please wait…"
+msgstr "Пожалуйста, подождите.."
+
+#: js/components/modalForms/projectSettings.es6:483
+msgid "Retrieving form, please wait..."
+msgstr "Получение формы, пожалуйста, подождите ..."
+
+#: js/components/modalForms/projectSettings.es6:512
+msgid "Failed to reload project after import!"
+msgstr "Не удалось перезагрузить проект после импорта!"
+
+#: js/components/modalForms/projectSettings.es6:518
+#: js/components/modalForms/projectSettings.es6:576 js/mixins.es6:380
+#: js/mixins.es6:389 js/mixins.es6:392
+msgid "Import Failed!"
+msgstr "Импорт не удался!"
+
+#: js/components/modalForms/projectSettings.es6:530
+msgid "Could not initialize XLSForm import!"
+msgstr "Не смог инициализировать импорт XLSForm!"
+
+#: js/components/modalForms/projectSettings.es6:571
+msgid "Failed to reload project after upload!"
+msgstr "Не удалось перезагрузить проект после загрузки!"
+
+#: js/components/modalForms/projectSettings.es6:589
+msgid "Could not import XLSForm!"
+msgstr "Не смог импортировать XLSForm!"
+
+#: js/components/modalForms/projectSettings.es6:600
+msgid "Please enter a title for your project!"
+msgstr "Пожалуйста, введите название для вашего проекта!"
+
+#: js/components/modalForms/projectSettings.es6:621
+msgid "Use a template"
+msgstr "Используйте шаблон"
+
+#: js/components/modalForms/projectSettings.es6:631
+msgid ""
+"Choose one of the options below to continue. You will be prompted to enter "
+"name and other details in further steps."
+msgstr ""
+"Выберите один из вариантов ниже, чтобы продолжить. Вам будет предложено "
+"ввести имя и другие детали в дальнейших шагах."
+
+#: js/components/modalForms/projectSettings.es6:639
+msgid "Build from scratch"
+msgstr "Начать с нуля"
+
+#: js/components/modalForms/projectSettings.es6:649
+msgid "Upload an XLSForm"
+msgstr "Загрузить XLSForm"
+
+#: js/components/modalForms/projectSettings.es6:654
+msgid "Import an XLSForm via URL"
+msgstr "Импорт XLSForm через URL"
+
+#: js/components/modalForms/projectSettings.es6:691
+msgid "Import an XLSForm from your computer."
+msgstr "Импорт XLSForm с вашего компьютера."
+
+#: js/components/modalForms/projectSettings.es6:704
+msgid " Drag and drop the XLSForm file here or click to browse"
+msgstr " Перетащите файл XLSForm сюда или нажмите, чтобы выбрать"
+
+#: js/components/modalForms/projectSettings.es6:709
+msgid "Uploading file…"
+msgstr "Загрузка файла..."
+
+#: js/components/modalForms/projectSettings.es6:724
+msgid "Enter a valid XLSForm URL in the field below."
+msgstr "Введите действительный URL XLSForm в поле ниже."
+
+#: js/components/modalForms/projectSettings.es6:726
+msgid "Having issues? See this help article."
+msgstr "Возникли проблемы? Смотрите эту статью справки."
+
+#: js/components/modalForms/projectSettings.es6:733
+msgid "URL"
+msgstr "URL"
+
+#: js/components/modalForms/projectSettings.es6:789
+msgid "Project Name"
+msgstr "Название проекта"
+
+#: js/components/modalForms/projectSettings.es6:793
+msgid "Enter title of project here"
+msgstr "Введите название проекта здесь"
+
+#: js/components/modalForms/projectSettings.es6:807
+msgid "Enter short description here"
+msgstr "Введите краткое описание здесь"
+
+#: js/components/modalForms/projectSettings.es6:813
+msgid ""
+"Please specify the country and the sector where this project will be "
+"deployed. "
+msgstr ""
+"Просьба указать страну и сектор, в котором будет развернут этот проект. "
+
+#: js/components/modalForms/projectSettings.es6:854
+msgid ""
+"Help KoboToolbox improve this product by sharing the sector and country "
+"where this project will be deployed."
+msgstr ""
+"Help KoboToolbox improve this product by sharing the sector and country "
+"where this project will be deployed."
+
+#: js/components/modalForms/projectSettings.es6:854
+msgid ""
+"All the information is submitted anonymously, and will not include the "
+"project name or description listed above."
+msgstr ""
+"Вся информация представлена анонимно и не будет включать в себя имя проекта "
+"или описание, перечисленные выше."
+
+#: js/components/modalForms/projectSettings.es6:888 js/mixins.es6:619
+msgid "Unarchive Project"
+msgstr "Разорхивировать проект"
+
+#: js/components/modalForms/projectSettings.es6:898 js/mixins.es6:591
+msgid "Archive Project"
+msgstr "Архивировать проект"
+
+#: js/components/modalForms/projectSettings.es6:904
+msgid "Unarchive project to resume accepting submissions."
+msgstr "Разорхивировать проект возобновить прием заявок."
+
+#: js/components/modalForms/projectSettings.es6:904
+msgid "Archive project to stop accepting submissions."
+msgstr "Архивировать проект, чтобы прекратить прием заявок."
+
+#: js/components/modalForms/projectSettings.es6:916
+msgid "Delete Project and Data"
+msgstr "Удаление проекта и данных"
+
+#: js/components/modalForms/projectSettings.es6:946
+#: js/components/modalForms/translationTable.es6:192
+msgid "Back"
+msgstr "Назад"
+
+#: js/components/modalForms/projectSettings.es6:954
+msgid "loading…"
+msgstr "Загрузка..."
+
+#: js/components/modalForms/sharingForm.es6:27
+msgid "View Form"
+msgstr "Просмотр Формы"
+
+#: js/components/modalForms/sharingForm.es6:28
+msgid "Edit Form"
+msgstr "Редактировать форму"
+
+#: js/components/modalForms/sharingForm.es6:29
+msgid "View Submissions"
+msgstr "Просмотр ответов"
+
+#: js/components/modalForms/sharingForm.es6:30
+msgid "Add Submissions"
+msgstr "Добавление ответов"
+
+#: js/components/modalForms/sharingForm.es6:31
+msgid "Edit Submissions"
+msgstr "Редактировать ответы"
+
+#: js/components/modalForms/sharingForm.es6:32
+msgid "Validate Submissions"
+msgstr "Проверка ответов"
+
+#: js/components/modalForms/sharingForm.es6:137
+msgid "Share by link"
+msgstr "Поделиться по ссылке"
+
+#: js/components/modalForms/sharingForm.es6:142
+msgid "Shareable link"
+msgstr "Общие ссылки"
+
+#: js/components/modalForms/sharingForm.es6:153
+msgid "Share data publicly"
+msgstr "Публичное обмена данными"
+
+#: js/components/modalForms/sharingForm.es6:298
+msgid "View"
+msgstr "Просмотр"
+
+#: js/components/modalForms/sharingForm.es6:310
+msgid "Who has access"
+msgstr "Кто имеет доступ"
+
+#: js/components/modalForms/sharingForm.es6:321
+msgid "is owner"
+msgstr "является владельцем"
+
+#: js/components/modalForms/sharingForm.es6:332
+msgid "Invite collaborators"
+msgstr "Пригласить сотрудников"
+
+#: js/components/modalForms/sharingForm.es6:338
+msgid "Enter a username"
+msgstr "Введите имя пользователя"
+
+#: js/components/modalForms/sharingForm.es6:354
+msgid "invite"
+msgstr "приглашение"
+
+#: js/components/modalForms/sharingForm.es6:362
+msgid "Select share settings"
+msgstr "Выберите настройки общих долей"
+
+#: js/components/modalForms/submission.es6:131
+msgid "Delete submission?"
+msgstr "Удалить ответы?"
+
+#: js/components/modalForms/submission.es6:132
+msgid "Are you sure you want to delete this submission?"
+msgstr "Вы уверены, что хотите удалить эти ответы?"
+
+#: js/components/modalForms/submission.es6:132
+msgid "This action cannot be undone"
+msgstr "Это действие не может быть отменено"
+
+#: js/components/modalForms/submission.es6:137
+msgid "submission deleted"
+msgstr "ответы удалены"
+
+#: js/components/modalForms/submission.es6:308
+msgid "Repeat group: "
+msgstr "Повторите группу: "
+
+#: js/components/modalForms/submission.es6:357
+msgid "Unlabelled group"
+msgstr "Группа без ярлыка"
+
+#: js/components/modalForms/submission.es6:430
+msgid ""
+"Click on the button below to load the most recent data for this submission. "
+msgstr ""
+"Нажмите на кнопку ниже, чтобы загрузить самые последние данные для этой "
+"формы. "
+
+#: js/components/modalForms/submission.es6:432
+msgid "Refresh submission"
+msgstr "Обновление ответов"
+
+#: js/components/modalForms/submission.es6:441
+msgid "Language:"
+msgstr "Язык:"
+
+#: js/components/modalForms/submission.es6:454
+msgid "Validation status:"
+msgstr "Статус валидации:"
+
+#: js/components/modalForms/submission.es6:475
+#: js/components/modalForms/submission.es6:483
+msgid "Previous"
+msgstr "Предыдущий"
+
+#: js/components/modalForms/submission.es6:518
+msgid "Delete submission"
+msgstr "Удалить ответ"
+
+#: js/components/modalForms/submission.es6:529
+msgid "Response"
+msgstr "Ответ"
+
+#: js/components/modalForms/submission.es6:541
+msgid "start"
+msgstr "начало"
+
+#: js/components/modalForms/submission.es6:548
+msgid "end"
+msgstr "конец"
+
+#: js/components/modalForms/submission.es6:555
+msgid "__version__"
+msgstr "__version__"
+
+#: js/components/modalForms/submission.es6:562
+msgid "instanceID"
+msgstr "instanceID"
+
+#: js/components/modalForms/tableColumnFilter.es6:109
+msgid "There was an error, table settings could not be saved."
+msgstr "Произошла ошибка, настройки таблицы не удалось сохранить."
+
+#: js/components/modalForms/tableColumnFilter.es6:144
+msgid "XML Values"
+msgstr "Значения XML"
+
+#: js/components/modalForms/tableColumnFilter.es6:165
+msgid "Display labels or XML values?"
+msgstr "Отобразить метки или значения XML?"
+
+#: js/components/modalForms/tableColumnFilter.es6:175
+msgid "Show group names in table headers"
+msgstr "Показать названия групп в таблицах"
+
+#: js/components/modalForms/tableColumnFilter.es6:183
+msgid "Show HXL tags"
+msgstr "Показать теги HXL"
+
+#: js/components/modalForms/tableColumnFilter.es6:190
+msgid ""
+"Note: Only users with the \"edit form\" permission can see the following two "
+"options. If other users can view submissions on this project, their table "
+"view will be restricted by the choices made below."
+msgstr ""
+"Примечание: Только пользователи с разрешением \"редактировать форму\" могут "
+"видеть следующие два варианта. Если другие пользователи могут просматривать "
+"материалы по этому проекту, их представление таблицы будет ограничено "
+"выбором, сделанным ниже."
+
+#: js/components/modalForms/tableColumnFilter.es6:194
+msgid "Set a frozen first column in the table."
+msgstr "Установите замороженный первый столбец в таблице."
+
+#: js/components/modalForms/tableColumnFilter.es6:208
+msgid "Restrict the visible columns in the table display"
+msgstr "Ограничение видимых столбцов на дисплее таблицы"
+
+#: js/components/modalForms/tableColumnFilter.es6:209
+msgid "All columns are visible by default"
+msgstr "Все столбцы видны по умолчанию"
+
+#: js/components/modalForms/translationSettings.es6:126
+msgid "Delete language?"
+msgstr "Удалить язык?"
+
+#: js/components/modalForms/translationSettings.es6:127
+msgid ""
+"Are you sure you want to delete this language? This action is not reversible."
+msgstr "Вы уверены, что хотите удалить этот язык? Это действие не обратимо."
+
+#: js/components/modalForms/translationSettings.es6:208
+msgid "Change default language?"
+msgstr "Изменить язык по умолчанию?"
+
+#: js/components/modalForms/translationSettings.es6:209
+msgid ""
+"Are you sure you would like to set ##lang## as the default language for this "
+"form?"
+msgstr ""
+"Вы уверены, что хотели бы установить «#lang» в качестве языка по умолчанию "
+"для этой формы?"
+
+#: js/components/modalForms/translationSettings.es6:210
+#: js/components/modalForms/translationTable.es6:149
+msgid "Confirm"
+msgstr "Подтвердить"
+
+#: js/components/modalForms/translationSettings.es6:238
+msgid "There is nothing to translate in this form."
+msgstr "В этой форме переводить нечего."
+
+#: js/components/modalForms/translationSettings.es6:260
+msgid ""
+"Here you can add more languages to your project, and translate the strings "
+"in each of them."
+msgstr ""
+"Здесь вы можете добавить больше языков в свой проект и перевести строки в "
+"каждом из них."
+
+#: js/components/modalForms/translationSettings.es6:261
+msgid ""
+"Please name your default language before adding languages and translations."
+msgstr ""
+"Пожалуйста, назовите свой язык по умолчанию, прежде чем добавлять языки и "
+"переводы."
+
+#: js/components/modalForms/translationSettings.es6:262
+msgid "For the language code field, we suggest using the"
+msgstr "Для поля языкового кода мы предлагаем использовать"
+
+#: js/components/modalForms/translationSettings.es6:264
+msgid "official language code"
+msgstr "официальный языковой код"
+
+#: js/components/modalForms/translationSettings.es6:266
+msgid "(e.g. \"English (en)\" or \"Rohingya (rhg)\")."
+msgstr ""
+
+#: js/components/modalForms/translationSettings.es6:268
+msgid "Read more."
+msgstr "Читать далее."
+
+#: js/components/modalForms/translationSettings.es6:274
+msgid "Current languages"
+msgstr "Текущие языки"
+
+#: js/components/modalForms/translationSettings.es6:286
+msgid "default"
+msgstr "по умолчанию"
+
+#: js/components/modalForms/translationSettings.es6:295
+msgid "Make default"
+msgstr "Сделать по умолчанию"
+
+#: js/components/modalForms/translationSettings.es6:307
+msgid "Edit language"
+msgstr "Изменить язык"
+
+#: js/components/modalForms/translationSettings.es6:324
+msgid "Update translations"
+msgstr "Обновление переводов"
+
+#: js/components/modalForms/translationSettings.es6:334
+msgid "Delete language"
+msgstr "Удалить язык"
+
+#: js/components/modalForms/translationSettings.es6:364
+msgid "Add language"
+msgstr "Добавить язык"
+
+#: js/components/modalForms/translationSettings.es6:374
+msgid "Add a new language"
+msgstr "Добавить новый язык"
+
+#: js/components/modalForms/translationSettings.es6:480
+msgid "Name must be unique!"
+msgstr "Имя должно быть уникально!"
+
+#: js/components/modalForms/translationSettings.es6:487
+msgid "Code must be unique!"
+msgstr "Код должен быть уникальным!"
+
+#: js/components/modalForms/translationSettings.es6:516
+msgid "Language name"
+msgstr "Название языка"
+
+#: js/components/modalForms/translationSettings.es6:527
+msgid "Language code"
+msgstr "Код языка"
+
+#: js/components/modalForms/translationSettings.es6:542
+msgid "Update"
+msgstr "Обновить"
+
+#: js/components/modalForms/translationSettings.es6:542
+msgid "Add"
+msgstr "Добавить"
+
+#: js/components/modalForms/translationTable.es6:13
+msgid "* Save Changes"
+msgstr "Сохранить изменения"
+
+#: js/components/modalForms/translationTable.es6:14
+msgid "Saving…"
+msgstr "Сохранение…"
+
+#: js/components/modalForms/translationTable.es6:62
+msgid "Original string"
+msgstr "Оригинальная строка"
+
+#: js/components/modalForms/translationTable.es6:67
+msgid "##lang## translation"
+msgstr "##lang## перевод"
+
+#: js/components/modalForms/translationTable.es6:147
+msgid "Go back?"
+msgstr "Вернуться?"
+
+#: js/components/modalForms/translationTable.es6:175
+#: js/components/table.es6:947
+msgid "Prev"
+msgstr "Назад"
+
+#: js/components/passwordStrength.es6:23
+msgid "Password strength"
+msgstr "Надежность пароля"
+
+#: js/components/reportViewItem.es6:23
+msgid "Mean"
+msgstr "Среднее"
+
+#: js/components/reportViewItem.es6:23
+msgid "Median"
+msgstr "Среднее значение"
+
+#: js/components/reportViewItem.es6:23
+msgid "Mode"
+msgstr "Режим"
+
+#: js/components/reportViewItem.es6:23
+msgid "Standard deviation"
+msgstr "Стандартное отклонение"
+
+#: js/components/reportViewItem.es6:40 js/components/reportViewItem.es6:41
+#: js/components/reportViewItem.es6:42 js/components/reportViewItem.es6:43
+#: js/components/reportViewItem.es6:53 js/components/reportViewItem.es6:54
+#: js/components/reportViewItem.es6:55 js/components/reportViewItem.es6:56
+msgid "N/A"
+msgstr "N/A"
+
+#: js/components/reportViewItem.es6:66
+msgid "Frequency"
+msgstr "Частота"
+
+#: js/components/reportViewItem.es6:66
+msgid "Percentage"
+msgstr "Процент"
+
+#: js/components/reportViewItem.es6:353
+msgid "Type: "
+msgstr "Тип: "
+
+#: js/components/reportViewItem.es6:353
+msgid ". "
+msgstr ". "
+
+#: js/components/reportViewItem.es6:358
+msgid "#1 out of #2 respondents answered this question. "
+msgstr "#1 из #2 ответили на этот вопрос. "
+
+#: js/components/reportViewItem.es6:365
+msgid "(# were without data.)"
+msgstr "(# получены без данных.)"
+
+#: js/components/reportViewItem.es6:373
+msgid "Override Graph Style"
+msgstr "Переопределение стиля графика"
+
+#: js/components/reports.es6:270 js/components/reports.es6:528
+msgid "Unlabeled"
+msgstr "Без маркировки"
+
+#: js/components/reports.es6:281 js/components/reports.es6:983
+msgid "Untitled Report"
+msgstr "Отчет без имени"
+
+#: js/components/reports.es6:284
+msgid "Include the following questions:"
+msgstr "Включите следующие вопросы:"
+
+#: js/components/reports.es6:377 js/components/reports.es6:635
+#: js/components/reports.es6:670
+msgid "Chart Type"
+msgstr "Тип диаграммы"
+
+#: js/components/reports.es6:377 js/components/reports.es6:635
+#: js/components/reports.es6:678
+msgid "Colors"
+msgstr "Цвета"
+
+#: js/components/reports.es6:411 js/components/reports.es6:685
+msgid "Width: "
+msgstr "Ширина:"
+
+#: js/components/reports.es6:617
+msgid "No grouping"
+msgstr "Группировка отсутствует"
+
+#: js/components/reports.es6:638 js/components/reports.es6:689
+msgid "Group By"
+msgstr "Группировать по"
+
+#: js/components/reports.es6:643 js/components/reports.es6:699
+msgid "Translation"
+msgstr "Перевод"
+
+#: js/components/reports.es6:824
+msgid ""
+"Could not load grouped results via \"##\". Will attempt to load the "
+"ungrouped report."
+msgstr "Не смог загрузить сгруппированные результаты через \"##\". "
+
+#: js/components/reports.es6:873
+msgid "Could not refresh report."
+msgstr "Не смог обновить отчет."
+
+#: js/components/reports.es6:983
+msgid "Custom Reports"
+msgstr "Пользовательские отчеты"
+
+#: js/components/reports.es6:989
+msgid "Default Report"
+msgstr "Отчет по умолчанию"
+
+#: js/components/reports.es6:999
+msgid "Untitled report"
+msgstr "Отчет без имени"
+
+#: js/components/reports.es6:1008
+msgid "Create New Report"
+msgstr "Создание нового отчета"
+
+#: js/components/reports.es6:1016
+msgid "Edit Report Questions"
+msgstr "Редактировать вопросы отчета"
+
+#: js/components/reports.es6:1024 js/components/table.es6:921
+msgid "Toggle fullscreen"
+msgstr "Включить полноэкранный режим"
+
+#: js/components/reports.es6:1031 js/components/table.es6:899
+msgid "Print"
+msgstr "Печать"
+
+#: js/components/reports.es6:1038
+msgid "Configure Report Style"
+msgstr "Настройка стиля отчета"
+
+#: js/components/reports.es6:1084 js/components/reports.es6:1127
+msgid "This report cannot be loaded."
+msgstr "Этот отчет не может быть загружен."
+
+#: js/components/reports.es6:1161
+msgid "This report has no data."
+msgstr "Отчет не имеет данных."
+
+#: js/components/reports.es6:1163
+msgid "Try changing Report Style to \"No grouping\"."
+msgstr "Попробуйте изменить стиль отчета на \"Нет группировки\"."
+
+#: js/components/reports.es6:1177
+msgid ""
+"For performance reasons, this report only includes the first ## questions."
+msgstr ""
+"По причинам производительности в этом отчете содержатся только первые "
+"значения по вопросам."
+
+#: js/components/reports.es6:1180
+msgid "Show all (##)"
+msgstr "Показать все (##)"
+
+#: js/components/reports.es6:1186
+msgid "Warning"
+msgstr "Предупреждение"
+
+#: js/components/reports.es6:1187
+msgid ""
+"This is an automated report based on raw data submitted to this project. "
+"Please conduct proper data cleaning prior to using the graphs and figures "
+"used on this page. "
+msgstr ""
+"Это автоматизированный отчет, основанный на необработанных данных, "
+"представленных в рамках этого проекта. Пожалуйста, проведите надлежащую "
+"очистку данных перед использованием графиков и цифр, используемых на этой "
+"странице. "
+
+#: js/components/reports.es6:1195
+msgid "Edit Report Style"
+msgstr "Редактировать стиль отчета"
+
+#: js/components/reports.es6:1201
+msgid "Custom Report"
+msgstr "Пользователский Отчет"
+
+#: js/components/reports.es6:1207
+msgid "Question Style"
+msgstr "Стиль вопросов"
+
+#: js/components/searchcollectionlist.es6:131
+#: js/components/templatesList.es6:78
+msgid "Owner"
+msgstr "Владелец"
+
+#: js/components/searchcollectionlist.es6:146
+msgid "Shared by"
+msgstr "Отправлено"
+
+#: js/components/searchcollectionlist.es6:189 js/lists/sidebarForms.es6:101
+msgid "Active Projects"
+msgstr "Активные проекты"
+
+#: js/components/searchcollectionlist.es6:241
+msgid "Your search returned no results."
+msgstr "Ваш запрос не дал результатов."
+
+#: js/components/searchcollectionlist.es6:267
+msgid ""
+"Let's get started by creating your first project. Click the New button to "
+"create a new form."
+msgstr ""
+"Давайте начнем с создания вашего первого проекта. Нажмите на кнопку Новый, "
+"чтобы создать новую форму."
+
+#: js/components/searchcollectionlist.es6:269
+msgid ""
+"Advanced users: You also drag and drop XLSForms here and they will be "
+"uploaded and converted to projects."
+msgstr ""
+"Расширенные пользователи: Вы также перетащить XLSForms сюда, и они будут "
+"загружены и преобразованы в проекты."
+
+#: js/components/searchcollectionlist.es6:278
+msgid ""
+"Let's get started by creating your first library question or question block. "
+"Click the New button to create a new question or block."
+msgstr ""
+"Давайте начнем с создания первого библиотечного вопроса или блока вопросов. "
+"Нажмите на кнопку \"Новый\", чтобы создать новый вопрос."
+
+#: js/components/searchcollectionlist.es6:299
+msgid "Drop files to upload"
+msgstr "Перетащите файлы для загрузки"
+
+#: js/components/table.es6:112
+msgid "The query did not return any results."
+msgstr "Запрос не вернул никаких результатов."
+
+#: js/components/table.es6:278 js/components/table.es6:572
+msgid "Validation status"
+msgstr "Статус валидации"
+
+#: js/components/table.es6:566
+msgid "Multi-select checkboxes column"
+msgstr "Многопользовательская колонка флажков"
+
+#: js/components/table.es6:704
+msgid "There was an error loading Enketo."
+msgstr "Произошла ошибка загрузки Enketo."
+
+#: js/components/table.es6:797
+msgid "Update status of selected submissions"
+msgstr "Обновление статуса выбранных ответов"
+
+#: js/components/table.es6:798
+msgid ""
+"You have selected ## submissions. Are you sure you would like to update "
+"their status? This action is irreversible."
+msgstr ""
+"Вы выбрали ## ответов. Вы уверены, что хотели бы обновить их статус? Это "
+"действие необратимо."
+
+#: js/components/table.es6:799
+msgid "Update Validation Status"
+msgstr "Статус обновления"
+
+#: js/components/table.es6:806
+msgid "Failed to update status."
+msgstr "Не удалось обновить статус."
+
+#: js/components/table.es6:829
+msgid "results"
+msgstr "результаты"
+
+#: js/components/table.es6:839
+msgid "All ## selected. "
+msgstr "Все ##  выбранные. "
+
+#: js/components/table.es6:841
+msgid "Clear selection"
+msgstr "Очистить выбор"
+
+#: js/components/table.es6:847
+msgid "## selected. "
+msgstr "## выбрано. "
+
+#: js/components/table.es6:851
+msgid "Select all ##"
+msgstr "Выберите все ##"
+
+#: js/components/table.es6:904
+msgid "Update selected"
+msgstr "Обновить выбранные"
+
+#: js/components/table.es6:906
+msgid "Updated status to:"
+msgstr "Обновить статус:"
+
+#: js/components/table.es6:929
+msgid "Display options"
+msgstr "Параметры отображения"
+
+#: js/components/table.es6:955
+msgid "No rows found"
+msgstr "Строки не найдены"
+
+#: js/components/table.es6:956
+msgid "Page"
+msgstr "Страница"
+
+#: js/components/table.es6:958
+msgid "rows"
+msgstr "ряды"
+
+#: js/components/tagInput.es6:35
+msgid "Add tag(s)"
+msgstr "Добавить тег(и)"
+
+#: js/components/templatesList.es6:67
+msgid "You have no templates. Go to Library and create some."
+msgstr "У вас нет шаблонов. Зайдите в библиотеку и создайте шаблон."
+
+#: js/components/templatesList.es6:75
+msgid "Template name"
+msgstr "Название шаблона"
+
+#: js/components/templatesList.es6:92
+msgid "me"
+msgstr "мне"
+
+#: js/constants.es6:37
+msgid "Default - single page"
+msgstr "По умолчанию - одна страница"
+
+#: js/constants.es6:38
+msgid "Grid theme"
+msgstr "Тема сетки"
+
+#: js/constants.es6:39
+msgid "Grid theme with headings in ALL CAPS"
+msgstr "Тема сетки с заголовками во ВСЕХ CAPS"
+
+#: js/constants.es6:40
+msgid "Multiple pages"
+msgstr "Несколько страниц"
+
+#: js/constants.es6:41
+msgid "Grid theme + Multiple pages"
+msgstr "Тема сетки - Несколько страниц"
+
+#: js/constants.es6:42
+msgid "Grid theme + Multiple pages + headings in ALL CAPS"
+msgstr "Тема сетки - Несколько страниц - заголовки во ВСЕХ CAPS"
+
+#: js/constants.es6:52
+msgid "Not Approved"
+msgstr "Не одобрено"
+
+#: js/constants.es6:56
+msgid "Approved"
+msgstr "Одобрено"
+
+#: js/constants.es6:60
+msgid "On Hold"
+msgstr "В ожидании"
+
+#: js/constants.es6:74
+msgid "question"
+msgstr "вопрос"
+
+#: js/constants.es6:78
+msgid "block"
+msgstr "блок"
+
+#: js/constants.es6:82
+msgid "template"
+msgstr "шаблон"
+
+#: js/constants.es6:86
+msgid "project"
+msgstr "проект"
+
+#: js/dataInterface.es6:35
+msgid ""
+"Please try reloading the page. If you need to contact support, note the "
+"following message: <pre>##server_message##</pre>"
+msgstr ""
+
+#: js/dataInterface.es6:41
+msgid "You are not logged in"
+msgstr "Вы не авторизованы"
+
+#: js/editorMixins/assetNavigator.es6:81
+msgid "loading"
+msgstr "загрузка"
+
+#: js/editorMixins/assetNavigator.es6:89
+msgid "no search results found"
+msgstr "результаты поиска не найдены"
+
+#: js/editorMixins/assetNavigator.es6:116
+msgid "block of ___ questions"
+msgstr "блокировано из ___ вопросов"
+
+#: js/editorMixins/assetNavigator.es6:201
+msgid "search library"
+msgstr "библиотека поиска"
+
+#: js/editorMixins/cascadeMixin.es6:52 js/editorMixins/cascadeMixin.es6:63
+#: js/editorMixins/cascadeMixin.es6:89
+msgid "Paste your formatted table from excel in the box below."
+msgstr "Вставьте свой отформатированный стол из Excel в поле ниже."
+
+#: js/editorMixins/cascadeMixin.es6:69
+msgid "add cascade with # questions"
+msgstr "добавить каскад с вопросами # "
+
+#: js/editorMixins/cascadeMixin.es6:95
+msgid "OK"
+msgstr "OK"
+
+#: js/editorMixins/cascadeMixin.es6:106
+msgid "Learn more about importing cascading lists from Excel"
+msgstr "Узнайте больше об импорте каскадных списков от Excel"
+
+#: js/editorMixins/cascadeMixin.es6:120
+msgid "DONE"
+msgstr "ГОТОВО"
+
+#: js/editorMixins/editableForm.es6:200 js/editorMixins/editableForm.es6:262
+#: js/editorMixins/editableForm.es6:572
+msgid "You have unsaved changes. Leave form without saving?"
+msgstr "У вас есть неохватные изменения. Оставить форму без сохранения?"
+
+#: js/editorMixins/editableForm.es6:332
+msgid "Unknown Enketo preview error"
+msgstr "Неизвестная ошибка предварительного просмотра Enketo"
+
+#: js/editorMixins/editableForm.es6:407
+msgid ""
+"Your changes could not be saved, likely because of a lost internet "
+"connection."
+msgstr ""
+"Ваши изменения не могут быть сохранены, вероятно, из-за потерянного "
+"подключения к Интернету."
+
+#: js/editorMixins/editableForm.es6:407
+msgid ""
+"Keep this window open and try saving again while using a better connection."
+msgstr ""
+"Держите это окно открытым и попробуйте отправить снова при использовании "
+"стабильного соединения."
+
+#: js/editorMixins/editableForm.es6:414
+msgid "Error saving form"
+msgstr "Ошибка сохранения формы"
+
+#: js/editorMixins/editableForm.es6:416
+msgid "Dismiss"
+msgstr "Отклонить"
+
+#: js/editorMixins/editableForm.es6:471 js/i18nMissingStrings.es6:157
+msgid "create"
+msgstr "создать"
+
+#: js/editorMixins/editableForm.es6:473 js/editorMixins/editableForm.es6:475
+#: js/i18nMissingStrings.es6:158
+msgid "save"
+msgstr "сохранить"
+
+#: js/editorMixins/editableForm.es6:473
+msgid "retry"
+msgstr "Повторить"
+
+#: js/editorMixins/editableForm.es6:574
+msgid "Yes, leave form"
+msgstr "Да, выйти из формы"
+
+#: js/editorMixins/editableForm.es6:653
+msgid "Return to list"
+msgstr "Возврат к списку"
+
+#: js/editorMixins/editableForm.es6:676
+msgid "share"
+msgstr "поделиться"
+
+#: js/editorMixins/editableForm.es6:718
+msgid "Expand / collapse questions"
+msgstr "Развернуть  / свернуть вопросы"
+
+#: js/editorMixins/editableForm.es6:727
+msgid "Create group with selected questions"
+msgstr "Создание группы с выбранными вопросами"
+
+#: js/editorMixins/editableForm.es6:727
+msgid "Grouping disabled. Please select at least one question."
+msgstr ""
+"Группировка отключена. Пожалуйста, выберите по крайней мере один вопрос."
+
+#: js/editorMixins/editableForm.es6:734
+msgid "Download form"
+msgstr "Скачать форму"
+
+#: js/editorMixins/editableForm.es6:742
+msgid "Attach media files"
+msgstr "Прикрепите файлы "
+
+#: js/editorMixins/editableForm.es6:752
+msgid "Insert cascading select"
+msgstr "Вставьте каскадный выбор"
+
+#: js/editorMixins/editableForm.es6:771
+msgid "Add from Library"
+msgstr "Добавить из библиотеки"
+
+#: js/editorMixins/editableForm.es6:785
+msgid "Layout & Settings"
+msgstr "Макет и настройки"
+
+#: js/editorMixins/editableForm.es6:788
+msgid "Layout"
+msgstr "Макет"
+
+#: js/editorMixins/editableForm.es6:815
+msgid "Form style"
+msgstr "Стиль формы"
+
+#: js/editorMixins/editableForm.es6:819
+msgid "Read more about form styles"
+msgstr "Узнайте больше о стилях формы"
+
+#: js/editorMixins/editableForm.es6:830
+msgid ""
+"Select the form style that you would like to use. This will only affect web "
+"forms."
+msgstr ""
+"Выберите стиль формы, который вы хотели бы использовать. Это повлияет только "
+"на веб-формы."
+
+#: js/editorMixins/editableForm.es6:832
+msgid ""
+"Select the form style. This will only affect the Enketo preview, and it will "
+"not be saved with the question or block."
+msgstr ""
+"Выберите стиль формы. Это повлияет только на предварительный просмотр "
+"Enketo, и он не будет сохранен с вопросом или блоком."
+
+#: js/editorMixins/editableForm.es6:867
+msgid "Details"
+msgstr "Подробности"
+
+#: js/editorMixins/editableForm.es6:901
+msgid "Error loading survey:"
+msgstr "Ошибка загрузки формы:"
+
+#: js/editorMixins/editableForm.es6:960
+msgid "Error generating preview"
+msgstr "Ошибка генерации предварительного просмотра"
+
+#: js/editorMixins/editableForm.es6:970
+msgid "Import Cascading Select Questions"
+msgstr "Import каскадных вопросов"
+
+#: js/formbuild/containers/KoboMatrix.es6:177
+msgid "Change column type?"
+msgstr "Изменить тип столбца?"
+
+#: js/formbuild/containers/KoboMatrix.es6:178
+msgid ""
+"Are you sure you want to change the type? This action is irreversible, your "
+"existing option choices will be erased."
+msgstr ""
+"Вы уверены, что хотите изменить тип? Это действие необратимо, существующие "
+"варианты будут стерты."
+
+#: js/formbuild/containers/KoboMatrix.es6:179
+msgid "Change type"
+msgstr "Изменить тип"
+
+#: js/formbuild/containers/KoboMatrix.es6:206
+#: js/formbuild/containers/KoboMatrix.es6:209
+msgid "Option 1"
+msgstr "Опция 1"
+
+#: js/formbuild/containers/KoboMatrix.es6:217
+#: js/formbuild/containers/KoboMatrix.es6:220
+msgid "Option 2"
+msgstr "Опция 2"
+
+#: js/formbuild/containers/KoboMatrix.es6:279
+#: js/formbuild/containers/KoboMatrix.es6:282
+msgid "Row"
+msgstr "Ряд"
+
+#: js/formbuild/containers/KoboMatrix.es6:297
+#: js/formbuild/containers/KoboMatrix.es6:306
+msgid "Column"
+msgstr "Колонка"
+
+#: js/formbuild/containers/KoboMatrix.es6:325
+msgid "Delete row?"
+msgstr "Удалить строку?"
+
+#: js/formbuild/containers/KoboMatrix.es6:326
+msgid "Are you sure you want to delete this row? This action cannot be undone."
+msgstr ""
+"Вы уверены, что хотите удалить эту строку? Это действие не может быть "
+"отменено."
+
+#: js/formbuild/containers/KoboMatrix.es6:346
+msgid "Delete column?"
+msgstr "Удалить столбец?"
+
+#: js/formbuild/containers/KoboMatrix.es6:347
+msgid ""
+"Are you sure you want to delete this column? This action cannot be undone."
+msgstr ""
+"Вы уверены, что хотите удалить эту колонку? Это действие не может быть "
+"отменено."
+
+#: js/formbuild/containers/KoboMatrix.es6:426
+#: js/formbuild/containers/KoboMatrix.es6:450
+#: js/formbuild/containers/KoboMatrix.es6:532
+msgid "Label"
+msgstr "Метка"
+
+#: js/formbuild/containers/KoboMatrix.es6:433
+msgid "Data Column Suffix"
+msgstr "Колонка данных Суффикс"
+
+#: js/formbuild/containers/KoboMatrix.es6:440
+msgid "Required"
+msgstr "Обязательно"
+
+#: js/formbuild/containers/KoboMatrix.es6:451
+msgid "Data Column Name"
+msgstr "Название столбца данных"
+
+#: js/formbuild/containers/KoboMatrix.es6:484
+msgid "Delete column"
+msgstr "Удалить колонку"
+
+#: js/formbuild/containers/KoboMatrix.es6:539
+msgid "Data Column Prefix"
+msgstr "Префикс столбца данных"
+
+#: js/formbuild/containers/KoboMatrix.es6:547
+msgid "Delete row"
+msgstr "Удалить строку"
+
+#: js/i18nMissingStrings.es6:10
+msgid "Use a few words, avoid common phrases"
+msgstr "Используйте несколько слов, избегайте общих фраз"
+
+#: js/i18nMissingStrings.es6:11
+msgid "No need for symbols, digits, or uppercase letters"
+msgstr "Нет необходимости в символах, цифрах или верхних буквах"
+
+#: js/i18nMissingStrings.es6:12
+msgid "Add another word or two. Uncommon words are better."
+msgstr "Добавьте еще одно слово или два. Необычные слова лучше."
+
+#: js/i18nMissingStrings.es6:13
+msgid "Straight rows of keys are easy to guess"
+msgstr "Простые ключевые слова проще подобрать"
+
+#: js/i18nMissingStrings.es6:14
+msgid "Short keyboard patterns are easy to guess"
+msgstr "Короткие сочетания клавиш проще угадать"
+
+#: js/i18nMissingStrings.es6:15
+msgid "Use a longer keyboard pattern with more turns"
+msgstr "Используйте более длинные сочетания символов"
+
+#: js/i18nMissingStrings.es6:16
+msgid "Repeats like \"aaa\" are easy to guess"
+msgstr "Повторы, как \"ааа\" легко подобрать"
+
+#: js/i18nMissingStrings.es6:17
+msgid ""
+"Repeats like \"abcabcabc\" are only slightly harder to guess than \"abc\""
+msgstr ""
+"Повторяет, как \"abcabcabc\" только немного сложнее подобрать, чем \"abc\""
+
+#: js/i18nMissingStrings.es6:18
+msgid "Avoid repeated words and characters"
+msgstr "Избегайте повторных слов и символов"
+
+#: js/i18nMissingStrings.es6:19
+msgid "Sequences like abc or 6543 are easy to guess"
+msgstr "Последовательности, как ABC или 6543 легко подобрать"
+
+#: js/i18nMissingStrings.es6:20
+msgid "Avoid sequences"
+msgstr "Избегайте последовательностей"
+
+#: js/i18nMissingStrings.es6:21
+msgid "Recent years are easy to guess"
+msgstr "Последние цифры года легко угадать"
+
+#: js/i18nMissingStrings.es6:22
+msgid "Avoid recent years"
+msgstr "Избегайте последних цифр года"
+
+#: js/i18nMissingStrings.es6:23
+msgid "Avoid years that are associated with you"
+msgstr "Избегайте указания года, связанных с вами"
+
+#: js/i18nMissingStrings.es6:24
+msgid "Dates are often easy to guess"
+msgstr "Даты часто легко подобрать"
+
+#: js/i18nMissingStrings.es6:25
+msgid "Avoid dates and years that are associated with you"
+msgstr ""
+
+#: js/i18nMissingStrings.es6:26
+msgid "This is a top-10 common password"
+msgstr "Это топ-10 общий пароль"
+
+#: js/i18nMissingStrings.es6:27
+msgid "This is a top-100 common password"
+msgstr "Это топ-100 общий пароль"
+
+#: js/i18nMissingStrings.es6:28
+msgid "This is a very common password"
+msgstr "Это очень распространенный пароль"
+
+#: js/i18nMissingStrings.es6:29
+msgid "This is similar to a commonly used password"
+msgstr "Это похоже на широко используемый пароль"
+
+#: js/i18nMissingStrings.es6:30
+msgid "A word by itself is easy to guess"
+msgstr "Слово само по себе легко угадать"
+
+#: js/i18nMissingStrings.es6:31
+msgid "Names and surnames by themselves are easy to guess"
+msgstr "Имена и фамилии сами по себе легко угадать"
+
+#: js/i18nMissingStrings.es6:32
+msgid "Common names and surnames are easy to guess"
+msgstr "Общие имена и фамилии легко угадать"
+
+#: js/i18nMissingStrings.es6:33
+msgid "Capitalization doesn't help very much"
+msgstr "Заглавные буквы не очень помогают"
+
+#: js/i18nMissingStrings.es6:34
+msgid "All-uppercase is almost as easy to guess as all-lowercase"
+msgstr ""
+"Если все написать заглавными то почти так же легко догадаться, как все-"
+"строчными"
+
+#: js/i18nMissingStrings.es6:35
+msgid "Reversed words aren't much harder to guess"
+msgstr "Обратные слова не намного сложнее угадать"
+
+#: js/i18nMissingStrings.es6:36
+msgid "Predictable substitutions like '@' instead of 'a' don't help very much"
+msgstr "Предсказуемые замены, такие как «Я», а не «а», не очень помогают"
+
+#: js/i18nMissingStrings.es6:39
+msgid "Add another condition"
+msgstr "Добавить другое условие"
+
+#: js/i18nMissingStrings.es6:41
+msgid "Question should match all of these criteria"
+msgstr "Вопрос должен соответствовать всем этим критериям"
+
+#: js/i18nMissingStrings.es6:42
+msgid "Question should match any of these criteria"
+msgstr "Вопрос должен соответствовать любому из этих критериев"
+
+#: js/i18nMissingStrings.es6:49
+msgid "A constraint message to be read in case of error:"
+msgstr "Сообщение, которое следует прочитать в случае ошибки:"
+
+#: js/i18nMissingStrings.es6:50
+msgid "Row could not be displayed:"
+msgstr "Строка не может быть отображена:"
+
+#: js/i18nMissingStrings.es6:55
+msgid "This question will only be displayed if the following conditions apply"
+msgstr ""
+"Этот вопрос будет отображаться только в том случае, если применяются "
+"следующие условия"
+
+#: js/i18nMissingStrings.es6:56
+msgid "Save and Exit"
+msgstr "Сохранить и Выйти"
+
+#: js/i18nMissingStrings.es6:57
+msgid "Show All Responses"
+msgstr "Показать все ответы"
+
+#: js/i18nMissingStrings.es6:58
+msgid "Question Library"
+msgstr "Библиотека вопросов"
+
+#: js/i18nMissingStrings.es6:59
+msgid "Form ID"
+msgstr "ID формы"
+
+#: js/i18nMissingStrings.es6:60
+msgid "Unique form name"
+msgstr "Уникальное название формы"
+
+#: js/i18nMissingStrings.es6:61
+msgid "Web form style (Optional)"
+msgstr "Стиль веб-формы (необязательно)"
+
+#: js/i18nMissingStrings.es6:62
+msgid "This allows using different Enketo styles, e.g. 'theme-grid'"
+msgstr ""
+"Это позволяет использовать различные стили Enketo, например, «тема-сетка»"
+
+#: js/i18nMissingStrings.es6:63
+msgid "Multiple pages + Grid theme"
+msgstr "Несколько страниц и тема сетки"
+
+#: js/i18nMissingStrings.es6:64
+msgid "Version (Optional)"
+msgstr "Версия (необязательно)"
+
+#: js/i18nMissingStrings.es6:65
+msgid "A version ID of the form"
+msgstr "Идентификатор версии формы"
+
+#: js/i18nMissingStrings.es6:66
+msgid "Hidden meta questions to include in your form to help with analysis"
+msgstr ""
+"Скрытые мета-вопросы, чтобы включить в вашу форму, чтобы помочь с анализом"
+
+#: js/i18nMissingStrings.es6:67
+msgid "Meta questions for collecting with cell phones"
+msgstr "Мета вопросы для сбора с сотовых телефонов"
+
+#: js/i18nMissingStrings.es6:69
+msgid ""
+"You can add questions, notes, prompts, or other fields by clicking on the "
+"'+' sign below."
+msgstr ""
+"Вы можете добавить вопросы, заметки, подсказки или другие поля, нажав на "
+"знак '+' ниже."
+
+#: js/i18nMissingStrings.es6:70
+msgid "Vertical"
+msgstr "Вертикально"
+
+#: js/i18nMissingStrings.es6:71
+msgid "Donut"
+msgstr "Кольцо"
+
+#: js/i18nMissingStrings.es6:73
+msgid "Horizontal"
+msgstr "Горизонтально"
+
+#: js/i18nMissingStrings.es6:74
+msgid "Pie"
+msgstr "Круговая"
+
+#: js/i18nMissingStrings.es6:76
+msgid "Draft"
+msgstr "Черновик"
+
+#: js/i18nMissingStrings.es6:78
+msgid "Items cannot be selected more than once"
+msgstr "Элементы не могут быть выбраны более одного раза"
+
+#: js/i18nMissingStrings.es6:80
+msgid "[button triggers] Settings"
+msgstr "[button triggers] Параметры"
+
+#: js/i18nMissingStrings.es6:81
+msgid "[button triggers] Delete Question"
+msgstr "[button triggers] Удалить вопрос"
+
+#: js/i18nMissingStrings.es6:82
+msgid "[button triggers] Duplicate Question"
+msgstr "[button triggers]  Дубликат вопроса"
+
+#: js/i18nMissingStrings.es6:83
+msgid "[button triggers] Add Question to Library"
+msgstr "[button triggers]  Добавить вопрос в библиотеку"
+
+#: js/i18nMissingStrings.es6:90
+msgid "GPS"
+msgstr "GPS"
+
+#: js/i18nMissingStrings.es6:95
+msgid "Barcode"
+msgstr "Штрихкод"
+
+#: js/i18nMissingStrings.es6:98
+msgid "Matrix / Rating"
+msgstr "Матрица / Рейтинг"
+
+#: js/i18nMissingStrings.es6:100
+msgid "Are you sure you want to split apart this group?"
+msgstr "Ты уверен, что хочешь разделить эту группу?"
+
+#: js/i18nMissingStrings.es6:102
+msgid "Enter your question"
+msgstr "Введите ваш вопрос"
+
+#: js/i18nMissingStrings.es6:103
+msgid "Select question from list"
+msgstr "Выберите вопрос из списка"
+
+#: js/i18nMissingStrings.es6:104
+msgid "Question hint"
+msgstr "Подсказка вопроса"
+
+#: js/i18nMissingStrings.es6:113
+msgid "Please check your connection and try again."
+msgstr "Пожалуйста, проверьте ваше соединение и попробуйте еще раз."
+
+#: js/i18nMissingStrings.es6:114
+msgid ""
+"The server encountered an error while trying to deploy the project. If this "
+"problem persists, please contact <a href=\"mailto:help@kobotoolbox.org"
+"\">help@kobotoolbox.org</a>."
+msgstr ""
+"The server encountered an error while trying to deploy the project. If this "
+"problem persists, please contact <a href=\"mailto:help@kobotoolbox.org"
+"\">help@kobotoolbox.org</a>."
+
+#: js/i18nMissingStrings.es6:115
+msgid "The form id was not valid."
+msgstr "Идентификатор формы не действителен."
+
+#: js/i18nMissingStrings.es6:116
+msgid "failed to change password"
+msgstr "не удалось изменить пароль"
+
+#: js/i18nMissingStrings.es6:117
+msgid "Tags are loading..."
+msgstr "Теги загружаются..."
+
+#: js/i18nMissingStrings.es6:118
+msgid "library"
+msgstr "Библиотека"
+
+#: js/i18nMissingStrings.es6:119
+msgid "Collection"
+msgstr "Коллекция"
+
+#: js/i18nMissingStrings.es6:120
+msgid "collection loading..."
+msgstr "загрузка коллекции..."
+
+#: js/i18nMissingStrings.es6:121
+msgid "new collection inside \"___\""
+msgstr "новая коллекция внутри \"___\""
+
+#: js/i18nMissingStrings.es6:122
+msgid "new question inside \"___\""
+msgstr "новый вопрос внутри \"___\""
+
+#: js/i18nMissingStrings.es6:123
+msgid "new block inside \"___\""
+msgstr "новый блок внутри \"___\""
+
+#: js/i18nMissingStrings.es6:124
+msgid "upload into \"___\""
+msgstr "загрузить в \"___\""
+
+#: js/i18nMissingStrings.es6:125
+msgid "Are you sure you want to delete this collection?"
+msgstr "Вы действительно хотите удалить эту коллекцию?"
+
+#: js/i18nMissingStrings.es6:133
+msgid "Unable to deploy"
+msgstr "Невозможно развернуть"
+
+#: js/i18nMissingStrings.es6:136
+msgid "profile"
+msgstr "профиль"
+
+#: js/i18nMissingStrings.es6:137
+msgid "logout"
+msgstr "выйти"
+
+#: js/i18nMissingStrings.es6:138
+msgid "log in"
+msgstr "войти"
+
+#: js/i18nMissingStrings.es6:139
+msgid "Link to share"
+msgstr "Ссылка на общий"
+
+#: js/i18nMissingStrings.es6:140
+msgid "Invite people and specify access rights"
+msgstr "Пригласите людей и укажите права доступа"
+
+#: js/i18nMissingStrings.es6:141
+msgid "Your username, bio, and links appear on your public profile"
+msgstr ""
+"Ваше имя пользователя, биография и ссылки отображаются в общедоступном "
+"профиле"
+
+#: js/i18nMissingStrings.es6:142
+msgid "Download form as"
+msgstr "Скачать форму как"
+
+#: js/i18nMissingStrings.es6:143
+msgid "add to library"
+msgstr "добавить в библиотеку"
+
+#: js/i18nMissingStrings.es6:144
+msgid "Allow others to access your project."
+msgstr "Позвольте другим пользователям получить доступ к вашему проекту."
+
+#: js/i18nMissingStrings.es6:145
+msgid "Shared with "
+msgstr "Совместное с "
+
+#: js/i18nMissingStrings.es6:146
+msgid "Share the sector and country with developers"
+msgstr "Поделитесь сектором и страной с разработчиками"
+
+#: js/i18nMissingStrings.es6:147
+msgid "Leave Beta"
+msgstr "Оставьте бета-версию"
+
+#: js/i18nMissingStrings.es6:148
+msgid "Form"
+msgstr "Форма"
+
+#: js/i18nMissingStrings.es6:152
+msgid "Undeployed draft"
+msgstr "Неопубликованный проект"
+
+#: js/i18nMissingStrings.es6:153
+msgid "Scheduled server maintenance"
+msgstr "Плановое техническое обслуживание сервера"
+
+#: js/i18nMissingStrings.es6:154
+msgid "Project description"
+msgstr "Описание проекта"
+
+#: js/i18nMissingStrings.es6:155
+msgid "none"
+msgstr "нет"
+
+#: js/i18nMissingStrings.es6:156
+msgid "report type"
+msgstr "тип отчета"
+
+#: js/i18nMissingStrings.es6:159
+msgid "form name"
+msgstr "имя формы"
+
+#: js/i18nMissingStrings.es6:160
+msgid "Ask support about this error"
+msgstr "Спросите поддержку об этой ошибке"
+
+#: js/i18nMissingStrings.es6:161
+msgid "Collections"
+msgstr "Коллекции"
+
+#: js/i18nMissingStrings.es6:162
+msgid "collection not loaded"
+msgstr "коллекция не загружена"
+
+#: js/i18nMissingStrings.es6:163
+msgid "collection name"
+msgstr "название коллекции"
+
+#: js/i18nMissingStrings.es6:164
+msgid "No assets to display"
+msgstr "Нет активов для отображения"
+
+#: js/i18nMissingStrings.es6:165
+msgid "Form Overview"
+msgstr "Обзор формы"
+
+#: js/i18nMissingStrings.es6:166
+msgid "Edit in Form Builder"
+msgstr "Редактировать в редакторе форм"
+
+#: js/i18nMissingStrings.es6:167
+msgid "make new collection: \"{label}\""
+msgstr "сделать новую коллекцию: \"{label}\""
+
+#: js/i18nMissingStrings.es6:168
+msgid "owner"
+msgstr "владелец"
+
+#: js/i18nMissingStrings.es6:169
+msgid "viewer"
+msgstr "Просмотр"
+
+#: js/i18nMissingStrings.es6:170
+msgid "viewers"
+msgstr "просматривающих"
+
+#: js/i18nMissingStrings.es6:171
+msgid "editor"
+msgstr "редактор"
+
+#: js/i18nMissingStrings.es6:172
+msgid "editors"
+msgstr "редакторы"
+
+#: js/i18nMissingStrings.es6:173
+msgid "status"
+msgstr "статус"
+
+#: js/i18nMissingStrings.es6:174
+msgid "public"
+msgstr "общедоступный"
+
+#: js/i18nMissingStrings.es6:175
+msgid "private"
+msgstr "приватная"
+
+#: js/i18nMissingStrings.es6:176
+msgid "revisions"
+msgstr "ревизии"
+
+#: js/i18nMissingStrings.es6:177
+msgid "created"
+msgstr "создано"
+
+#: js/i18nMissingStrings.es6:178
+msgid "modified"
+msgstr "изменено"
+
+#: js/i18nMissingStrings.es6:179
+msgid "no language information"
+msgstr "нет языковой информации"
+
+#: js/i18nMissingStrings.es6:180
+msgid "no translations"
+msgstr "без переводов"
+
+#: js/i18nMissingStrings.es6:181
+msgid "languages"
+msgstr "Языки"
+
+#: js/i18nMissingStrings.es6:182
+msgid "Collecting Data with Web Forms"
+msgstr "Сбор данных с помощью веб-форм"
+
+#: js/i18nMissingStrings.es6:184
+msgid "Choose an option"
+msgstr "Выберите опцию"
+
+#: js/i18nMissingStrings.es6:185
+msgid "Collecting Data with Android App"
+msgstr "Сбор данных с помощью Android App"
+
+#: js/i18nMissingStrings.es6:186
+msgid "preview"
+msgstr "предпросмотр"
+
+#: js/i18nMissingStrings.es6:187
+msgid "clone"
+msgstr "дублировать"
+
+#: js/i18nMissingStrings.es6:188
+msgid "new form name"
+msgstr "новое название формы"
+
+#: js/i18nMissingStrings.es6:189
+msgid ""
+"You are about to permanently delete this ___. Are you sure you want to "
+"continue?"
+msgstr "Вы вот-вот навсегда удалите этот ___. Уверены, что хотите продолжить?"
+
+#: js/i18nMissingStrings.es6:190
+msgid "Current Version"
+msgstr "Текущая версия"
+
+#: js/i18nMissingStrings.es6:191
+msgid "Modified Date"
+msgstr "Дата изменения"
+
+#: js/i18nMissingStrings.es6:192
+msgid "(deployed)"
+msgstr "(опубликовано)"
+
+#: js/i18nMissingStrings.es6:193
+msgid "(archived)"
+msgstr "(архивировано)"
+
+#: js/i18nMissingStrings.es6:194
+msgid "(undeployed draft)"
+msgstr "(неопубликованных проектов)"
+
+#: js/i18nMissingStrings.es6:195
+msgid "Previous Versions"
+msgstr "Предыдущие версии"
+
+#: js/i18nMissingStrings.es6:196
+msgid "collections"
+msgstr "коллекции"
+
+#: js/i18nMissingStrings.es6:197
+msgid "my forms"
+msgstr "мои формы"
+
+#: js/i18nMissingStrings.es6:198
+msgid "shared with me"
+msgstr "поделился со мной"
+
+#: js/i18nMissingStrings.es6:199
+msgid "error loading data"
+msgstr "Ошибка загрузки данных"
+
+#: js/i18nMissingStrings.es6:200
+msgid "results loaded"
+msgstr "загруженные результаты"
+
+#: js/i18nMissingStrings.es6:201
+msgid ""
+"Warning! You are about to delete this collection with all its questions and "
+"blocks. Are you sure you want to continue?"
+msgstr ""
+"Предупреждение! Вы вот-вот удалите эту коллекцию со всеми ее вопросами и "
+"блоками. Вы уверены, что хотите продолжить?"
+
+#: js/i18nMissingStrings.es6:202
+msgid "new name?"
+msgstr "новое имя?"
+
+#: js/i18nMissingStrings.es6:203
+msgid "Delete Project"
+msgstr "Удалить проект"
+
+#: js/i18nMissingStrings.es6:205
+msgid "Archived"
+msgstr "Архивировано"
+
+#: js/lists/library.es6:64
+msgid "Show All"
+msgstr "Показать все"
+
+#: js/lists/library.es6:66
+msgid "Block"
+msgstr "Заблокировать"
+
+#: js/lists/library.es6:72
+msgid "Filter by type:"
+msgstr "Фильтр по типу:"
+
+#: js/lists/library.es6:91
+msgid "library item"
+msgstr "элемент библиотеки"
+
+#: js/lists/library.es6:92
+msgid "library items"
+msgstr "элементы библиотеки"
+
+#: js/lists/sidebarForms.es6:146
+msgid "Deleted"
+msgstr "Удалено"
+
+#: js/mixins.es6:41
+msgid "copied to clipboard"
+msgstr "скопированы в буфер обмена"
+
+#: js/mixins.es6:45 js/mixins.es6:464
+msgid "Clone of"
+msgstr "Клон"
+
+#: js/mixins.es6:50 js/mixins.es6:469
+msgid "Enter the name of the cloned ##ASSET_TYPE##."
+msgstr "Введите имя клонированного «#ASSET_TYPE»."
+
+#: js/mixins.es6:82 js/mixins.es6:500
+msgid "Create new template from this project"
+msgstr "Создание нового шаблона из этого проекта"
+
+#: js/mixins.es6:83 js/mixins.es6:501
+msgid "Enter the name of the new template."
+msgstr "Введите название нового шаблона."
+
+#: js/mixins.es6:87
+msgid "deploying to kobocat..."
+msgstr "развертывание в kobocat..."
+
+#: js/mixins.es6:90
+msgid "deployed form"
+msgstr "развернутая форма"
+
+#: js/mixins.es6:107
+msgid "Overwrite existing deployment"
+msgstr "Перенаписать существующие формы"
+
+#: js/mixins.es6:109
+msgid ""
+"This form has already been deployed. Are you sure you want overwrite the "
+"existing deployment? <br/><br/><strong>This action cannot be undone.</strong>"
+msgstr ""
+"Эта форма уже развернута. Вы уверены, что хотите переписать существующие "
+"формы? <br/><br/><strong>Это действие не может быть отменено.</strong>"
+
+#: js/mixins.es6:117
+msgid "Deploying..."
+msgstr "Развертывание..."
+
+#: js/mixins.es6:120
+msgid "redeployed form"
+msgstr "переопубликованная формы"
+
+#: js/mixins.es6:332
+msgid "## files"
+msgstr "## файлов"
+
+#: js/mixins.es6:359
+msgid ""
+"XLSForm Import failed. Check that the XLSForm and/or the URL are valid, and "
+"try again using the \"Replace form\" icon."
+msgstr ""
+"XLSForm Импорт не удалось. Убедитесь, что XLSForm и/или URL действительны, и "
+"повторите попытку использования значка «Заменить форму»."
+
+#: js/mixins.es6:370
+msgid "XLS Import completed"
+msgstr "XLS Импорт завершен"
+
+#: js/mixins.es6:375
+msgid "Your upload is being processed. This may take a few moments."
+msgstr "Загрузка обрабатывается. Это может занять несколько минут."
+
+#: js/mixins.es6:377
+msgid "Your upload is queued for processing. This may take a few moments."
+msgstr ""
+"Загрузка находится в очереди для обработки. Это может занять несколько минут."
+
+#: js/mixins.es6:399
+msgid "Failed to create import."
+msgstr "Не удалось создать импорт."
+
+#: js/mixins.es6:421
+msgid "Upload error: could not recognize Excel file."
+msgstr "Ошибка загрузки: не может распознать файл Excel."
+
+#: js/mixins.es6:422
+msgid "Uploaded file name: "
+msgstr "Загруженное имя файла: "
+
+#: js/mixins.es6:425
+msgid "Could not recognize the dropped item(s)."
+msgstr "Не смог распознать элемент (ы)."
+
+#: js/mixins.es6:474
+msgid "Cloning..."
+msgstr "Клонирование..."
+
+#: js/mixins.es6:483
+msgid "cloned project created"
+msgstr "клонированный проект создан"
+
+#: js/mixins.es6:509
+msgid "Create new project from this template"
+msgstr "Создание нового проекта из этого шаблона"
+
+#: js/mixins.es6:510
+msgid "Enter the name of the new project."
+msgstr "Введите название нового проекта."
+
+#: js/mixins.es6:529
+msgid "deleted permanently"
+msgstr "удалены навсегда"
+
+#: js/mixins.es6:539
+msgid "You are about to permanently delete this item from your library."
+msgstr "Вы навсегда удаляете этот элемент из вашей библиотеки."
+
+#: js/mixins.es6:541
+msgid "You are about to permanently delete this draft."
+msgstr "Вы навсегда удаляете черновик"
+
+#: js/mixins.es6:544
+msgid "You are about to permanently delete this form."
+msgstr "Вы навсегда удаляете формы"
+
+#: js/mixins.es6:545
+msgid "All data gathered for this form will be deleted."
+msgstr "Все данные, собранные для этой формы, будут удалены."
+
+#: js/mixins.es6:546
+msgid "All questions created for this form will be deleted."
+msgstr "Все вопросы, созданные для этой формы, будут удалены."
+
+#: js/mixins.es6:547
+msgid "The form associated with this project will be deleted."
+msgstr "Форма, связанная с этим проектом, будет удалена."
+
+#: js/mixins.es6:548
+msgid ""
+"I understand that if I delete this project I will not be able to recover it."
+msgstr "Я понимаю, что если я удалю этот проект, я не смогу восстановить его."
+
+#: js/mixins.es6:592
+msgid "Are you sure you want to archive this project?"
+msgstr "Вы уверены, что хотите архивировать этот проект?"
+
+#: js/mixins.es6:593
+msgid "Your form will not accept submissions while it is archived."
+msgstr "Ваша форма не будет принимать материалы, пока она архивирована."
+
+#: js/mixins.es6:620
+msgid "Are you sure you want to unarchive this project?"
+msgstr "Вы уверены, что хотите разархивировать этот проект?"
+
+#: js/mixins.es6:621
+msgid "Unarchive"
+msgstr "Разархивировать"
+
+#: js/mixins.es6:791
+msgid "Failed to create new asset!"
+msgstr "Не удалось создать новый актив!"
+
+#: js/models/surveyScope.es6:35
+msgid "question has been added to the library"
+msgstr "вопрос был добавлен в библиотеку"
+
+#: js/stores.es6:365
+msgid "failed to list assets"
+msgstr "не удалось перечислить активы"
+
+#: js/ui.es6:166
+msgid "No name"
+msgstr "Без названия"
+
+#: js/ui.es6:188
+msgid "no name"
+msgstr "без имени"
+
+#: js/ui.es6:192
+msgid "and one other question"
+msgstr "и еще один вопрос"
+
+#: js/ui.es6:194
+msgid "and ## other questions"
+msgstr "и  ## других вопросов"
+
+#~ msgid "Tags"
+#~ msgstr "Tags"
+
+#~ msgid "Deploy this project"
+#~ msgstr "Deploy this project"
+
+#~ msgid "Redeploy this project"
+#~ msgstr "Redeploy this project"
+
+#~ msgid "Replace with XLS"
+#~ msgstr "Replace with XLS"
+
+#~ msgid "Project"
+#~ msgstr "Project"
+
+#~ msgid "source"
+#~ msgstr "source"
+
+#~ msgid "help"
+#~ msgstr "help"
+
+#~ msgid ""
+#~ "This information will be used to help you filter results on the project "
+#~ "list page."
+#~ msgstr ""
+#~ "This information will be used to help you filter results on the project "
+#~ "list page."
+
+#~| msgid "Previous Versions"
+#~ msgid "Previous Exports"
+#~ msgstr "Previous Exports"
+
+#~| msgid "More for"
+#~ msgid "Share form"
+#~ msgstr "Share form"
+
+#~ msgid "not logged in"
+#~ msgstr "not logged in"
+
+#~ msgid "Failed to delete collection."
+#~ msgstr "Failed to delete collection."
+
+#~ msgid "Search Tags"
+#~ msgstr "Search Tags"
+
+#~ msgid "No results found"
+#~ msgstr "No results found"
+
+#~ msgid "Filter by"
+#~ msgstr "Filter by"
+
+#~ msgid "Create New Project from Scratch"
+#~ msgstr "Create New Project from Scratch"
+
+#~| msgid "Record"
+#~ msgid "Record #"
+#~ msgstr "Record #"
+
+#~ msgid "Expand"
+#~ msgstr "Expand"
+
+#~ msgid "Contract"
+#~ msgstr "Contract"
+
+#~| msgid "Select question from list"
+#~ msgid "Show/hide question groups"
+#~ msgstr "Show/hide question groups"
+
+#~ msgid "#tags +"
+#~ msgstr "#tags +"
+
+#~ msgid "loading library assets"
+#~ msgstr "loading library assets"
+
+#~ msgid "none (0 metadata specified)"
+#~ msgstr "none (0 metadata specified)"
+
+#~ msgid "metadata:"
+#~ msgstr "metadata:"
+
+#~ msgid "you have unsaved changes"
+#~ msgstr "you have unsaved changes"
+
+#~ msgid "Web form layout"
+#~ msgstr "Web form layout"
+
+#~ msgid "form style"
+#~ msgstr "form style"
+
+#~ msgid ""
+#~ "select the form style that you would like to use. this will only affect "
+#~ "web forms."
+#~ msgstr ""
+#~ "select the form style that you would like to use. this will only affect "
+#~ "web forms."
+
+#~ msgid ""
+#~ "select the form style. this will only affect the Enketo preview, and it "
+#~ "will not be saved with the question or block."
+#~ msgstr ""
+#~ "select the form style. this will only affect the Enketo preview, and it "
+#~ "will not be saved with the question or block."
+
+#~ msgid "custom form style: \"{label}\""
+#~ msgstr "custom form style: \"{label}\""
+
+#~ msgid "you have unsaved changes. leave form without saving?"
+#~ msgstr "you have unsaved changes. leave form without saving?"
+
+#~ msgid "Note: Rank and Matrix question types are currently in beta."
+#~ msgstr "Note: Rank and Matrix question types are currently in beta."
+
+#~ msgid "Note: Rank and Matrix question types are currently in beta"
+#~ msgstr "Note: Rank and Matrix question types are currently in beta"
+
+#~ msgid "Clone form"
+#~ msgstr "Clone form"
+
+#~ msgid "Enter the name of the cloned form"
+#~ msgstr "Enter the name of the cloned form"
+
+#~ msgid "Could not redirect to asset."
+#~ msgstr "Could not redirect to asset."
+
+#~ msgid "Replace operation completed"
+#~ msgstr "Replace operation completed"
+
+#~ msgid "XLS Upload completed"
+#~ msgstr "XLS Upload completed"
+
+#~ msgid ""
+#~ "Your library assets have uploaded and are being processed. This may take "
+#~ "a few moments."
+#~ msgstr ""
+#~ "Your library assets have uploaded and are being processed. This may take "
+#~ "a few moments."
+
+#~ msgid ""
+#~ "Your library assets have uploaded and are queued for processing. This may "
+#~ "take a few moments."
+#~ msgstr ""
+#~ "Your library assets have uploaded and are queued for processing. This may "
+#~ "take a few moments."
+
+#~ msgid "Import Failure."
+#~ msgstr "Import Failure."
+
+#~ msgid "Import Failed."
+#~ msgstr "Import Failed."
+
+#~ msgid "archived project"
+#~ msgstr "archived project"
+
+#~ msgid "Group by question"
+#~ msgstr "Group by question"
+
+#~ msgid "Group by record"
+#~ msgstr "Group by record"
+
+#~ msgid "This form does not have any media questions."
+#~ msgstr "This form does not have any media questions."
+
+#~ msgid "Load More"
+#~ msgstr "Load More"
+
+#~ msgid "See "
+#~ msgstr "See"
+
+#~ msgid "images"
+#~ msgstr "images"
+
+#~ msgid "Show oldest first"
+#~ msgstr "Show oldest first"
+
+#~ msgid "All photos of"
+#~ msgstr "All photos of"
+
+#~ msgid "Showing"
+#~ msgstr "Showing"
+
+#~ msgid "Per page:"
+#~ msgstr "Per page:"
+
+#~ msgid "click to edit"
+#~ msgstr "click to edit"
+
+#~ msgid "Graph Settings"
+#~ msgstr "Graph Settings"
+
+#~ msgid "Size"
+#~ msgstr "Size"
+
+#~ msgid "Height: "
+#~ msgstr "Height: "
+
+#~ msgid "Done"
+#~ msgstr "Done"
+
+#~ msgid "Global Graph Settings"
+#~ msgstr "Global Graph Settings"
+
+#~ msgid "Can View"
+#~ msgstr "Can View"
+
+#~ msgid "Can Edit"
+#~ msgstr "Can Edit"
+
+#~ msgid "read more..."
+#~ msgstr "read more..."
+
+#~ msgid "Only 1 file can be uploaded in this case"
+#~ msgstr "Only 1 file can be uploaded in this case"
